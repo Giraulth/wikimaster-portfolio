@@ -312,7 +312,7 @@ def _stage_json(path: Path, document: dict[str, Any]) -> Path:
         suffix=".tmp",
         delete=False,
     ) as temporary_file:
-        json.dump(document, temporary_file, ensure_ascii=False, indent=2)
+        json.dump(document, temporary_file, ensure_ascii=False, indent=4)
         temporary_file.write("\n")
         return Path(temporary_file.name)
 

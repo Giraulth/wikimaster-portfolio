@@ -6,10 +6,19 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from update_collections import fetch_owned_collection, load_cookie, merge_collection, update_collections, url_for_page
+from update_collections import (
+    _stage_json,
+    fetch_owned_collection,
+    load_cookie,
+    merge_collection,
+    update_collections,
+    url_for_page,
+)
 
 
-def make_entry(card_id: str, title: str, *, owned: bool | None = None, tags: list | None = None) -> dict:
+def make_entry(
+    card_id: str, title: str, *, owned: bool | None = None, tags: list | None = None
+) -> dict:
     entry = {
         "id": f"entry-{card_id}",
         "card": {
@@ -43,6 +52,19 @@ class FakeResponse:
 
 
 class UpdateCollectionsTests(unittest.TestCase):
+    def test_staged_json_matches_collection_indentation_and_newline(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            path = Path(temporary_directory) / "collection.json"
+            staged_path = _stage_json(path, {"collection": [{"name": "Exemple"}]})
+
+            try:
+                self.assertEqual(
+                    staged_path.read_text(encoding="utf-8"),
+                    '{\n    "collection": [\n        {\n            "name": "Exemple"\n        }\n    ]\n}\n',
+                )
+            finally:
+                staged_path.unlink(missing_ok=True)
+
     def test_url_for_page_replaces_only_the_page_query_parameter(self) -> None:
         result = url_for_page("https://example.com/api?sort=name&page=0&stats=0", 3)
 
@@ -51,15 +73,23 @@ class UpdateCollectionsTests(unittest.TestCase):
     def test_load_cookie_reads_local_env_and_strips_cookie_header_prefix(self) -> None:
         with tempfile.TemporaryDirectory() as temporary_directory:
             root = Path(temporary_directory)
-            (root / ".env").write_text('WIKIMASTERS_COOKIE="Cookie: session=local-secret"\n', encoding="utf-8")
+            (root / ".env").write_text(
+                'WIKIMASTERS_COOKIE="Cookie: session=local-secret"\n', encoding="utf-8"
+            )
             with patch.dict(os.environ, {}, clear=True):
                 self.assertEqual(load_cookie(root), "session=local-secret")
 
-    def test_fetch_owned_collection_sends_cookie_and_reads_until_empty_page(self) -> None:
-        responses = iter([
-            FakeResponse({"collection": [make_entry("one", "Airbus")], "total": None}),
-            FakeResponse({"collection": []}),
-        ])
+    def test_fetch_owned_collection_sends_cookie_and_reads_until_empty_page(
+        self,
+    ) -> None:
+        responses = iter(
+            [
+                FakeResponse(
+                    {"collection": [make_entry("one", "Airbus")], "total": None}
+                ),
+                FakeResponse({"collection": []}),
+            ]
+        )
         requested_pages: list[str] = []
 
         def opener(request, timeout):
@@ -79,29 +109,48 @@ class UpdateCollectionsTests(unittest.TestCase):
         self.assertIn("page=0", requested_pages[0])
         self.assertIn("page=1", requested_pages[1])
 
-    def test_merge_refreshes_owned_promotes_matching_wanted_and_preserves_other_wanted(self) -> None:
-        wanted_airbus = make_entry("wanted-airbus", "Airbus", owned=False, tags=[{"name": "cac40"}])
-        wanted_legrand = make_entry("wanted-legrand", "Legrand", owned=False, tags=[{"name": "cac40"}])
+    def test_merge_refreshes_owned_promotes_matching_wanted_and_preserves_other_wanted(
+        self,
+    ) -> None:
+        wanted_airbus = make_entry(
+            "wanted-airbus", "Airbus", owned=False, tags=[{"name": "cac40"}]
+        )
+        wanted_legrand = make_entry(
+            "wanted-legrand", "Legrand", owned=False, tags=[{"name": "cac40"}]
+        )
         missing_owned = make_entry("old-owned", "Old owned card")
-        existing = {"collection": [wanted_airbus, wanted_legrand, missing_owned], "custom": "kept"}
+        existing = {
+            "collection": [wanted_airbus, wanted_legrand, missing_owned],
+            "custom": "kept",
+        }
         api_airbus = make_entry("api-airbus", "Airbus", tags=[{"name": "aircraft"}])
         api_new_card = make_entry("api-new", "New card")
 
-        merged, stats = merge_collection(existing, {"total": 2}, [api_airbus, api_new_card])
+        merged, stats = merge_collection(
+            existing, {"total": 2}, [api_airbus, api_new_card]
+        )
 
         entries = merged["collection"]
-        self.assertEqual([entry["card"]["id"] for entry in entries], ["api-airbus", "api-new", "wanted-legrand", "old-owned"])
+        self.assertEqual(
+            [entry["card"]["id"] for entry in entries],
+            ["api-airbus", "api-new", "wanted-legrand", "old-owned"],
+        )
         self.assertTrue(entries[0]["owned"])
-        self.assertEqual({tag["name"] for tag in entries[0]["tags"]}, {"aircraft", "cac40"})
+        self.assertEqual(
+            {tag["name"] for tag in entries[0]["tags"]}, {"aircraft", "cac40"}
+        )
         self.assertFalse(entries[2]["owned"])
         self.assertEqual(merged["custom"], "kept")
         self.assertEqual(merged["total"], 2)
-        self.assertEqual(stats, {
-            "fetched": 2,
-            "promoted": 1,
-            "preserved_wanted": 1,
-            "preserved_missing_owned": 1,
-        })
+        self.assertEqual(
+            stats,
+            {
+                "fetched": 2,
+                "promoted": 1,
+                "preserved_wanted": 1,
+                "preserved_missing_owned": 1,
+            },
+        )
 
     def test_merge_matches_wanted_card_by_normalized_wikipedia_title(self) -> None:
         local_card = make_entry("wanted-loreal", "L'Oréal", owned=False)
@@ -122,12 +171,17 @@ class UpdateCollectionsTests(unittest.TestCase):
             original_contents = {}
             for name in ("bike", "cac40", "geek"):
                 path = data_directory / f"{name}_collection.json"
-                path.write_text(json.dumps({"collection": [], "marker": name}), encoding="utf-8")
+                path.write_text(
+                    json.dumps({"collection": [], "marker": name}), encoding="utf-8"
+                )
                 original_contents[path] = path.read_bytes()
 
             with patch(
                 "update_collections.fetch_owned_collection",
-                side_effect=[({"total": 0}, []), RuntimeError("simulated HTTP failure")],
+                side_effect=[
+                    ({"total": 0}, []),
+                    RuntimeError("simulated HTTP failure"),
+                ],
             ):
                 with self.assertRaisesRegex(RuntimeError, "simulated HTTP failure"):
                     update_collections("session=test-cookie", root)
