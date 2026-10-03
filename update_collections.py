@@ -15,12 +15,13 @@ from urllib.error import URLError
 from urllib.parse import parse_qsl, unquote, urlencode, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
-
 ROOT = Path(__file__).resolve().parent
 COLLECTION_URLS = {
     "bike": "https://www.wiki-masters.com/api/my-collection?sort=rarity&tag_id=1f306648-72a1-44a7-82d2-e5a6b37fee65&page=0&stats=0",
     "cac40": "https://www.wiki-masters.com/api/my-collection?sort=name&tag_id=ed71f8ea-7e11-45d5-b92b-3abbb64d0048&page=0&stats=0",
     "geek": "https://www.wiki-masters.com/api/my-collection?sort=rarity&tag_id=a8b6f623-5290-4fed-b0d5-2658f10b5c60&page=0&stats=0",
+    "paris": "https://www.wiki-masters.com/api/my-collection?sort=rarity&tag_id=c63498bd-9f0a-4400-a28e-e211c4a58f2d&page=0&stats=0",
+    "pl1": "https://www.wiki-masters.com/api/my-collection?sort=rarity&tag_id=3e16fe09-b0c8-4108-b3f3-417e9c9a731f&page=0&stats=0",
 }
 REQUEST_TIMEOUT_SECONDS = 30
 MAX_PAGES = 1000
@@ -67,7 +68,15 @@ def url_for_page(endpoint: str, page: int) -> str:
     if not page_replaced:
         updated_query.append(("page", str(page)))
 
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(updated_query), parts.fragment))
+    return urlunsplit(
+        (
+            parts.scheme,
+            parts.netloc,
+            parts.path,
+            urlencode(updated_query),
+            parts.fragment,
+        )
+    )
 
 
 def fetch_owned_collection(
@@ -92,14 +101,27 @@ def fetch_owned_collection(
         try:
             with opener(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
                 payload = json.loads(response.read().decode("utf-8"))
-        except (URLError, TimeoutError, UnicodeDecodeError, json.JSONDecodeError) as error:
-            raise RuntimeError(f"Échec de la requête de collection (page {page}).") from error
+        except (
+            URLError,
+            TimeoutError,
+            UnicodeDecodeError,
+            json.JSONDecodeError,
+        ) as error:
+            raise RuntimeError(
+                f"Échec de la requête de collection (page {page})."
+            ) from error
 
-        if not isinstance(payload, dict) or not isinstance(payload.get("collection"), list):
-            raise RuntimeError(f"Réponse API invalide pour la page {page}: collection absente.")
+        if not isinstance(payload, dict) or not isinstance(
+            payload.get("collection"), list
+        ):
+            raise RuntimeError(
+                f"Réponse API invalide pour la page {page}: collection absente."
+            )
 
         if first_payload is None:
-            first_payload = {key: value for key, value in payload.items() if key != "collection"}
+            first_payload = {
+                key: value for key, value in payload.items() if key != "collection"
+            }
 
         page_entries = payload["collection"]
         if not page_entries:
@@ -109,14 +131,20 @@ def fetch_owned_collection(
             if not isinstance(entry, dict) or not isinstance(entry.get("card"), dict):
                 raise RuntimeError(f"Entrée de carte invalide dans la page {page}.")
 
-        signature = tuple(sorted(_card_id(entry) or _wiki_key(entry) for entry in page_entries))
+        signature = tuple(
+            sorted(_card_id(entry) or _wiki_key(entry) for entry in page_entries)
+        )
         if signature in seen_page_signatures:
-            raise RuntimeError(f"L'API a répété la page {page}; aucune donnée n'a été écrite.")
+            raise RuntimeError(
+                f"L'API a répété la page {page}; aucune donnée n'a été écrite."
+            )
         seen_page_signatures.add(signature)
 
         all_entries.extend(page_entries)
     else:
-        raise RuntimeError(f"Limite de {MAX_PAGES} pages atteinte; aucune donnée n'a été écrite.")
+        raise RuntimeError(
+            f"Limite de {MAX_PAGES} pages atteinte; aucune donnée n'a été écrite."
+        )
 
     if first_payload is None:
         raise RuntimeError("L'API n'a retourné aucune réponse exploitable.")
@@ -133,7 +161,9 @@ def _card_id(entry: dict[str, Any]) -> str:
 
 def _normalize_title(value: str) -> str:
     decomposed = unicodedata.normalize("NFKD", value).casefold()
-    without_marks = "".join(character for character in decomposed if not unicodedata.combining(character))
+    without_marks = "".join(
+        character for character in decomposed if not unicodedata.combining(character)
+    )
     return "".join(character for character in without_marks if character.isalnum())
 
 
@@ -148,7 +178,9 @@ def _wiki_key(entry: dict[str, Any]) -> str:
 
     wiki_url = card.get("wikipedia_url")
     if isinstance(wiki_url, str) and wiki_url.strip():
-        path_title = unquote(urlsplit(wiki_url).path.rsplit("/", 1)[-1]).replace("_", " ")
+        path_title = unquote(urlsplit(wiki_url).path.rsplit("/", 1)[-1]).replace(
+            "_", " "
+        )
         return _normalize_title(path_title)
     return ""
 
@@ -203,13 +235,19 @@ def merge_collection(
     normalized_api: list[dict[str, Any]] = []
     api_keys: set[tuple[str, str]] = set()
     for raw_entry in api_entries:
-        if not isinstance(raw_entry, dict) or not isinstance(raw_entry.get("card"), dict):
-            raise ValueError("Une entrée API est invalide; aucune donnée n'a été écrite.")
+        if not isinstance(raw_entry, dict) or not isinstance(
+            raw_entry.get("card"), dict
+        ):
+            raise ValueError(
+                "Une entrée API est invalide; aucune donnée n'a été écrite."
+            )
         api_entry = copy.deepcopy(raw_entry)
         api_entry["owned"] = True
         keys = _identity_keys(api_entry)
         if not keys:
-            raise ValueError("Une carte API n'a ni identifiant ni titre Wikipedia exploitable.")
+            raise ValueError(
+                "Une carte API n'a ni identifiant ni titre Wikipedia exploitable."
+            )
         if keys & api_keys:
             continue
 
@@ -230,7 +268,9 @@ def merge_collection(
     preserved_missing_owned = 0
     for entry in existing_entries:
         if not isinstance(entry, dict):
-            raise ValueError("Une entrée du JSON local est invalide; aucune donnée n'a été écrite.")
+            raise ValueError(
+                "Une entrée du JSON local est invalide; aucune donnée n'a été écrite."
+            )
         keys = _identity_keys(entry)
         if keys & api_keys:
             if entry.get("owned") is False:
@@ -244,7 +284,13 @@ def merge_collection(
             preserved_missing_owned += 1
 
     result = copy.deepcopy(existing_document)
-    result.update({key: copy.deepcopy(value) for key, value in api_metadata.items() if key != "collection"})
+    result.update(
+        {
+            key: copy.deepcopy(value)
+            for key, value in api_metadata.items()
+            if key != "collection"
+        }
+    )
     result["collection"] = [*normalized_api, *retained_entries]
     stats = {
         "fetched": len(normalized_api),
@@ -258,14 +304,22 @@ def merge_collection(
 def _stage_json(path: Path, document: dict[str, Any]) -> Path:
     path.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.NamedTemporaryFile(
-        mode="w", encoding="utf-8", newline="\n", dir=path.parent, prefix=f".{path.name}.", suffix=".tmp", delete=False
+        mode="w",
+        encoding="utf-8",
+        newline="\n",
+        dir=path.parent,
+        prefix=f".{path.name}.",
+        suffix=".tmp",
+        delete=False,
     ) as temporary_file:
         json.dump(document, temporary_file, ensure_ascii=False, indent=2)
         temporary_file.write("\n")
         return Path(temporary_file.name)
 
 
-def update_collections(cookie: str, root: Path = ROOT, dry_run: bool = False) -> dict[str, dict[str, int]]:
+def update_collections(
+    cookie: str, root: Path = ROOT, dry_run: bool = False
+) -> dict[str, dict[str, int]]:
     """Fetch every configured API collection before staging or replacing local files."""
     pending: list[tuple[Path, dict[str, Any], dict[str, int]]] = []
 
@@ -282,7 +336,9 @@ def update_collections(cookie: str, root: Path = ROOT, dry_run: bool = False) ->
         pending.append((path, merged, stats))
 
     if dry_run:
-        return {path.stem.removesuffix("_collection"): stats for path, _, stats in pending}
+        return {
+            path.stem.removesuffix("_collection"): stats for path, _, stats in pending
+        }
 
     staged: list[tuple[Path, Path]] = []
     try:
@@ -298,13 +354,25 @@ def update_collections(cookie: str, root: Path = ROOT, dry_run: bool = False) ->
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Met à jour les collections Wikimasters sans supprimer les cartes voulues.")
-    parser.add_argument("--dry-run", action="store_true", help="récupère et simule le merge sans écrire les JSON")
+    parser = argparse.ArgumentParser(
+        description="Met à jour les collections Wikimasters sans supprimer les cartes voulues."
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="récupère et simule le merge sans écrire les JSON",
+    )
     args = parser.parse_args()
 
     try:
         results = update_collections(load_cookie(), dry_run=args.dry_run)
-    except (FileNotFoundError, OSError, RuntimeError, ValueError, json.JSONDecodeError) as error:
+    except (
+        FileNotFoundError,
+        OSError,
+        RuntimeError,
+        ValueError,
+        json.JSONDecodeError,
+    ) as error:
         print(f"Mise à jour annulée : {error}")
         return 1
 

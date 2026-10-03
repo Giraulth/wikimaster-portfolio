@@ -55,6 +55,25 @@ describe('Wikimasters collection data', () => {
         expect(cards.some((card) => card.name === 'Mads Pedersen' && card.tags.includes('bike') && card.owned)).toBe(true)
     })
 
+    it('loads the top 2020s cyclists as bike wanted cards', () => {
+        const names = [
+            'Tadej Pogačar',
+            'Mathieu van der Poel',
+            'Julian Alaphilippe',
+            'Jonas Vingegaard',
+            'Remco Evenepoel',
+            'Wout van Aert',
+            'Primož Roglič',
+            'Filippo Ganna',
+            'Demi Vollering',
+            'Lotte Kopecky',
+        ]
+        const cards = loadCollectionCards().filter((card) => names.includes(card.name))
+
+        expect(cards.map((card) => card.name)).toEqual(names)
+        expect(cards.every((card) => card.tags.includes('bike') && !card.owned)).toBe(true)
+    })
+
     it('contains all 40 CAC 40 companies with the 30 missing cards marked unowned', () => {
         const cac40Cards = loadCollectionCards().filter((card) => card.tags.includes('cac40'))
 

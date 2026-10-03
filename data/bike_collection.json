@@ -543,6 +543,196 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-09-30T11:38:41.123218+00:00"
+        },
+        {
+            "id": "wanted-bike-pogacar",
+            "card": {
+                "id": "wanted-bike-pogacar",
+                "rarity": "?",
+                "category": "coureur cycliste slovène",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg/330px-2022_Tour_of_Slovenia_%28Stage_3%2C_Tadej_Poga%C4%8Dar_celebrating_victory_on_Celje_Castle_v2%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Tadej_Poga%C4%8Dar",
+                "wikipedia_title": "Tadej Pogačar"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-van-der-poel",
+            "card": {
+                "id": "wanted-bike-van-der-poel",
+                "rarity": "?",
+                "category": "coureur cycliste néerlandais",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/MVDP-PR2024.jpg/330px-MVDP-PR2024.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Mathieu_van_der_Poel",
+                "wikipedia_title": "Mathieu van der Poel"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-alaphilippe",
+            "card": {
+                "id": "wanted-bike-alaphilippe",
+                "rarity": "?",
+                "category": "coureur cycliste français",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2018_Tour_of_Britain_stage_3_-_stage_winner_Julian_Alaphilippe_%28cropped%29.JPG/330px-2018_Tour_of_Britain_stage_3_-_stage_winner_Julian_Alaphilippe_%28cropped%29.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Julian_Alaphilippe",
+                "wikipedia_title": "Julian Alaphilippe"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-vingegaard",
+            "card": {
+                "id": "wanted-bike-vingegaard",
+                "rarity": "?",
+                "category": "coureur cycliste danois",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Jonas_Vingegaard_-_Vainqueur_du_Tour_de_France_2023.jpg/330px-Jonas_Vingegaard_-_Vainqueur_du_Tour_de_France_2023.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Jonas_Vingegaard",
+                "wikipedia_title": "Jonas Vingegaard"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-evenepoel",
+            "card": {
+                "id": "wanted-bike-evenepoel",
+                "rarity": "?",
+                "category": "coureur cycliste belge",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Remco_Evenepoel_WC_2022.jpg/330px-Remco_Evenepoel_WC_2022.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Remco_Evenepoel",
+                "wikipedia_title": "Remco Evenepoel"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-van-aert",
+            "card": {
+                "id": "wanted-bike-van-aert",
+                "rarity": "?",
+                "category": "coureur cycliste belge",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/WVA_Paris-Roubaix_2022.jpg/330px-WVA_Paris-Roubaix_2022.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Wout_van_Aert",
+                "wikipedia_title": "Wout van Aert"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-roglic",
+            "card": {
+                "id": "wanted-bike-roglic",
+                "rarity": "?",
+                "category": "coureur cycliste slovène",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Primoz_Roglic_on_the_podium_after_stage_2_of_Itzulia_Basque_Country_2024.jpg/330px-Primoz_Roglic_on_the_podium_after_stage_2_of_Itzulia_Basque_Country_2024.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Primo%C5%BE_Roglič",
+                "wikipedia_title": "Primož Roglič"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-ganna",
+            "card": {
+                "id": "wanted-bike-ganna",
+                "rarity": "?",
+                "category": "coureur cycliste italien",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-08-17_European_Championships_2022_%E2%80%93_Road_Cycling_Men%27s_Time_Trial_by_Sandro_Halank%E2%80%93103.jpg/330px-2022-08-17_European_Championships_2022_%E2%80%93_Road_Cycling_Men%27s_Time_Trial_by_Sandro_Halank%E2%80%93103.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Filippo_Ganna",
+                "wikipedia_title": "Filippo Ganna"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-vollering",
+            "card": {
+                "id": "wanted-bike-vollering",
+                "rarity": "?",
+                "category": "coureuse cycliste néerlandaise",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Demi_Vollering_-_2025_European_road_championship_podium_-_Guilherand-Granges.jpg/330px-Demi_Vollering_-_2025_European_road_championship_podium_-_Guilherand-Granges.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Demi_Vollering",
+                "wikipedia_title": "Demi Vollering"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-bike-kopecky",
+            "card": {
+                "id": "wanted-bike-kopecky",
+                "rarity": "?",
+                "category": "coureuse cycliste belge",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Lotte_Kopecky_poseert_in_KOERSkaffee_%28cropped%29.jpg/330px-Lotte_Kopecky_poseert_in_KOERSkaffee_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Lotte_Kopecky",
+                "wikipedia_title": "Lotte Kopecky"
+            },
+            "tags": [
+                {
+                    "name": "bike",
+                    "color": "#a78bfa"
+                }
+            ],
+            "owned": false
         }
     ],
     "total": null,

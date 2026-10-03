@@ -1,0 +1,264 @@
+{
+    "collection": [
+        {
+            "id": "34e2d05b-3254-465b-9f0b-be7b03808373",
+            "card": {
+                "id": "9bf4731a-410d-4740-bb31-05ce2a571d35",
+                "atk": 4997,
+                "def": 5283,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 34.53,
+                "category": "station du métro de Paris",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Duroc_ligne_13.jpg/330px-Duroc_ligne_13.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 408,
+                "created_at": "2026-04-01T01:02:04.172325+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Duroc_(m%C3%A9tro_de_Paris)",
+                "wikipedia_title": "Duroc (métro de Paris)"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "9bf4731a-410d-4740-bb31-05ce2a571d35",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T19:09:41.281021+00:00"
+        },
+        {
+            "id": "0f649c07-77c4-425a-9196-c8982924d12d",
+            "card": {
+                "id": "b7a286d5-4527-4f72-8bf6-bd8bf9b76c55",
+                "atk": 4848,
+                "def": 4367,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 25.14,
+                "category": "station du métro de Paris",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Metro_de_Paris_-_Ligne_2_-_Couronnes_01.jpg/330px-Metro_de_Paris_-_Ligne_2_-_Couronnes_01.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 316,
+                "created_at": "2026-05-03T05:26:28.001735+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Couronnes_(m%C3%A9tro_de_Paris)",
+                "wikipedia_title": "Couronnes (métro de Paris)"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "b7a286d5-4527-4f72-8bf6-bd8bf9b76c55",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T16:19:08.098012+00:00"
+        },
+        {
+            "id": "42e4a721-7f88-4fb4-9f81-8e9862cc8d05",
+            "card": {
+                "id": "ae3a859a-c570-4553-b91a-fa8bedba7418",
+                "atk": 4342,
+                "def": 3025,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 13.63,
+                "category": "quartier administratif de Paris, France",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Place_des_Vosges_14%2C_Paris_29_March_2013.jpg/330px-Place_des_Vosges_14%2C_Paris_29_March_2013.jpg",
+                "pageviews": 260,
+                "created_at": "2026-04-22T13:08:06.688679+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Quartier_de_l%27Arsenal",
+                "wikipedia_title": "Quartier de l'Arsenal"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "ae3a859a-c570-4553-b91a-fa8bedba7418",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T06:03:18.934645+00:00"
+        },
+        {
+            "id": "35e99b55-85fa-4e98-9c47-b4441030dc11",
+            "card": {
+                "id": "c8e76c31-9a2d-424f-9d5c-bf91f6d1cd43",
+                "atk": 2991,
+                "def": 4411,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 25.56,
+                "category": "rue de Paris, en France",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/PC130053_Paris_IV_rue_de_Fourcy_reductwk.JPG/330px-PC130053_Paris_IV_rue_de_Fourcy_reductwk.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 69,
+                "created_at": "2026-04-22T19:26:24.334178+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Rue_de_Fourcy",
+                "wikipedia_title": "Rue de Fourcy"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "c8e76c31-9a2d-424f-9d5c-bf91f6d1cd43",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T10:19:28.692998+00:00"
+        },
+        {
+            "id": "787569a9-7751-44e2-8c93-050c0cd40f33",
+            "card": {
+                "id": "42193471-e904-456e-b568-3e75aa8e5f98",
+                "atk": 3189,
+                "def": 4175,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 23.33,
+                "category": "rue de Paris, en France",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Elysees_Lincoln-_Paris.jpg/330px-Elysees_Lincoln-_Paris.jpg",
+                "pageviews": 104,
+                "created_at": "2026-04-27T07:25:23.414335+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Rue_Lincoln_(Paris)",
+                "wikipedia_title": "Rue Lincoln (Paris)"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "42193471-e904-456e-b568-3e75aa8e5f98",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T10:07:21.818258+00:00"
+        },
+        {
+            "id": "f56ee123-d560-4d0a-b9c2-75fbd442da53",
+            "card": {
+                "id": "b4a2263f-abe3-480d-9f57-b52de5949097",
+                "atk": 2604,
+                "def": 2813,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 12.08,
+                "category": "rue de Paris, en France",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rue_Capron_-_Paris_XVIII_%28FR75%29_-_2021-08-04_-_1.jpg/330px-Rue_Capron_-_Paris_XVIII_%28FR75%29_-_2021-08-04_-_1.jpg",
+                "pageviews": 55,
+                "created_at": "2026-04-24T03:43:23.608752+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Rue_Capron",
+                "wikipedia_title": "Rue Capron"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "b4a2263f-abe3-480d-9f57-b52de5949097",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T05:53:29.007102+00:00"
+        },
+        {
+            "id": "94f2c375-9221-4a4a-9b09-12b252bd349a",
+            "card": {
+                "id": "acde7772-87e4-4ce9-a416-8ae188b71489",
+                "atk": 1745,
+                "def": 3241,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 15.29,
+                "category": "place du 7e arrondissement de Paris en France",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Place_Simone-Michel-L%C3%A9vy_-_Avenue_de_Saxe%2C_Paris_7.jpg/330px-Place_Simone-Michel-L%C3%A9vy_-_Avenue_de_Saxe%2C_Paris_7.jpg",
+                "pageviews": 20,
+                "created_at": "2026-05-04T19:13:31.834739+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Place_Simone-Michel-L%C3%A9vy",
+                "wikipedia_title": "Place Simone-Michel-Lévy"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "acde7772-87e4-4ce9-a416-8ae188b71489",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T15:07:12.09011+00:00"
+        },
+        {
+            "id": "5192cd5e-c26a-4627-a964-e81276e8f88a",
+            "card": {
+                "id": "683857e8-462e-4707-b915-32f72c9d905f",
+                "atk": 1755,
+                "def": 3328,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 15.99,
+                "category": "rue de Paris, en France",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/P1040348_Paris_VIII_rue_d%27Argenson_rwk.JPG/330px-P1040348_Paris_VIII_rue_d%27Argenson_rwk.JPG",
+                "pageviews": 38,
+                "created_at": "2026-04-24T12:14:47.363301+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Rue_d%27Argenson",
+                "wikipedia_title": "Rue d'Argenson"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "683857e8-462e-4707-b915-32f72c9d905f",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T11:37:51.693406+00:00"
+        }
+    ],
+    "total": null,
+    "rarityCounts": {},
+    "tagOptions": [],
+    "pendingTradeCardIds": []
+}

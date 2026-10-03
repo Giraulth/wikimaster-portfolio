@@ -1,0 +1,168 @@
+{
+    "collection": [
+        {
+            "id": "05cce26e-2de5-4b1c-b30d-680d0967eb58",
+            "card": {
+                "id": "22666bcd-5318-473a-80b2-b9c04fbf4fc2",
+                "atk": 4307,
+                "def": 2075,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 7.28,
+                "category": "trouble des conduites alimentaires se caractérisant par des régurgitations et remastications des aliments",
+                "image_url": null,
+                "pageviews": 278,
+                "created_at": "2026-04-25T21:16:22.709622+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/M%C3%A9rycisme",
+                "wikipedia_title": "Mérycisme"
+            },
+            "tags": [
+                {
+                    "id": "3e16fe09-b0c8-4108-b3f3-417e9c9a731f",
+                    "name": "Phillou",
+                    "color": "#2dd4bf",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-10-02T19:51:03.631452+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "22666bcd-5318-473a-80b2-b9c04fbf4fc2",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-03T08:49:45.843467+00:00"
+        },
+        {
+            "id": "82c8d718-eb6b-4845-ab32-c23928fad63f",
+            "card": {
+                "id": "3a90afec-58cf-409f-91a1-a4eb6547aa18",
+                "atk": 5154,
+                "def": 5402,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 35.84,
+                "category": "forme grave de microangiopathie thrombotique",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Echymosis.jpg/330px-Echymosis.jpg",
+                "pageviews": 442,
+                "created_at": "2026-05-25T11:04:08.744211+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Purpura_thrombotique_thrombocytop%C3%A9nique",
+                "wikipedia_title": "Purpura thrombotique thrombocytopénique"
+            },
+            "tags": [
+                {
+                    "id": "3e16fe09-b0c8-4108-b3f3-417e9c9a731f",
+                    "name": "Phillou",
+                    "color": "#2dd4bf",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-10-02T19:51:03.631452+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "3a90afec-58cf-409f-91a1-a4eb6547aa18",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T19:50:34.585735+00:00"
+        },
+        {
+            "id": "866442f2-a32e-403e-82f5-a2de65bb46ee",
+            "card": {
+                "id": "8162a377-32bd-483b-a51d-fb346e5fda3a",
+                "atk": 4964,
+                "def": 5872,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 41.18,
+                "category": null,
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dermatomyositis_-_high_mag.jpg/330px-Dermatomyositis_-_high_mag.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 370,
+                "created_at": "2026-04-19T04:08:00.819095+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Dermatomyosite",
+                "wikipedia_title": "Dermatomyosite"
+            },
+            "tags": [
+                {
+                    "id": "3e16fe09-b0c8-4108-b3f3-417e9c9a731f",
+                    "name": "Phillou",
+                    "color": "#2dd4bf",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-10-02T19:51:03.631452+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "8162a377-32bd-483b-a51d-fb346e5fda3a",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T21:09:42.395848+00:00"
+        },
+        {
+            "id": "b3798d53-e8ab-4f49-bcab-fcfaf9b7a603",
+            "card": {
+                "id": "d17c3c03-fd4c-4cc0-b9c9-de53042b3e86",
+                "atk": 5082,
+                "def": 3324,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 15.96,
+                "category": null,
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3-patients-with-cockayne-syndrome.webp/330px-3-patients-with-cockayne-syndrome.webp.png",
+                "pageviews": 369,
+                "created_at": "2026-04-19T14:49:08.619046+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Syndrome_de_Cockayne",
+                "wikipedia_title": "Syndrome de Cockayne"
+            },
+            "tags": [
+                {
+                    "id": "3e16fe09-b0c8-4108-b3f3-417e9c9a731f",
+                    "name": "Phillou",
+                    "color": "#2dd4bf",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-10-02T19:51:03.631452+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "d17c3c03-fd4c-4cc0-b9c9-de53042b3e86",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T15:44:03.703786+00:00"
+        },
+        {
+            "id": "9a986509-dd19-49f4-8950-f2b199a9d0f3",
+            "card": {
+                "id": "66e6f53c-3dda-4b56-8cc2-73d341e4f299",
+                "atk": 2793,
+                "def": 1817,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 5.83,
+                "category": "candidoses oro-pharyngiennes qui sont les localisations cliniques de loin les plus fréquentes étant donné le territoire préférentiel des levures commensales",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Oral_pseudomembranous_candidiasis_on_the_dorsum_of_the_tongue_of_a_59-year-old_male_%28third_week_of_RT_for_a_squamous_cell_carcinoma_of_the_floor_of_the_mouth%2C_T3N0M0%2C_daily_dose_1.8_Gy%29.png/330px-thumbnail.png",
+                "pageviews": 208,
+                "created_at": "2026-05-15T02:07:52.571844+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Muguet_buccal",
+                "wikipedia_title": "Muguet buccal"
+            },
+            "tags": [
+                {
+                    "id": "3e16fe09-b0c8-4108-b3f3-417e9c9a731f",
+                    "name": "Phillou",
+                    "color": "#2dd4bf",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-10-02T19:51:03.631452+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "66e6f53c-3dda-4b56-8cc2-73d341e4f299",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T17:07:14.699065+00:00"
+        }
+    ],
+    "total": null,
+    "rarityCounts": {},
+    "tagOptions": [],
+    "pendingTradeCardIds": []
+}
