@@ -30,7 +30,8 @@
             "card_id": "85057e06-49aa-448a-8420-1a263e275de1",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T18:02:26.177342+00:00"
+            "obtained_at": "2026-10-01T18:02:26.177342+00:00",
+            "owned": true
         },
         {
             "id": "78dca153-0f3c-4f43-8079-713f926a9c0a",
@@ -62,7 +63,8 @@
             "card_id": "ac6348c9-2633-4565-8103-0c0dbfa9995b",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T20:15:01.23866+00:00"
+            "obtained_at": "2026-09-30T20:15:01.23866+00:00",
+            "owned": true
         },
         {
             "id": "74c3b6ef-c674-49d6-92bb-488e99013537",
@@ -94,7 +96,8 @@
             "card_id": "47cd2cff-8b80-415d-89fe-dd7da2958486",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T18:04:59.647452+00:00"
+            "obtained_at": "2026-10-01T18:04:59.647452+00:00",
+            "owned": true
         },
         {
             "id": "9a927f21-14ab-4ce3-98eb-bcfcaac72266",
@@ -126,7 +129,8 @@
             "card_id": "86ac36ce-ea4e-4bec-9479-bbad76460673",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T21:29:28.131648+00:00"
+            "obtained_at": "2026-10-02T21:29:28.131648+00:00",
+            "owned": true
         },
         {
             "id": "d6ef825a-5a96-4a90-a738-a7b01e7bbf10",
@@ -158,7 +162,8 @@
             "card_id": "459133bb-a599-446a-815d-8fd7df400e40",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T18:10:54.241039+00:00"
+            "obtained_at": "2026-09-30T18:10:54.241039+00:00",
+            "owned": true
         },
         {
             "id": "9bbb0d05-f09f-4073-802b-c17adc44f817",
@@ -190,7 +195,8 @@
             "card_id": "a84e31e3-4828-4497-bda2-fde906598688",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T17:32:23.3829+00:00"
+            "obtained_at": "2026-10-01T17:32:23.3829+00:00",
+            "owned": true
         },
         {
             "id": "ed0b93a8-a576-4aac-af0d-feb9186dba36",
@@ -222,7 +228,8 @@
             "card_id": "5eddbe8e-cf2f-43e6-8c14-776b8e745eb5",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T09:08:15.268348+00:00"
+            "obtained_at": "2026-10-02T09:08:15.268348+00:00",
+            "owned": true
         },
         {
             "id": "d40b1808-0986-498c-886f-e2666598e08b",
@@ -254,7 +261,8 @@
             "card_id": "d505cf6b-cddf-4cd1-bf2b-80cee1930623",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T17:18:32.338802+00:00"
+            "obtained_at": "2026-10-01T17:18:32.338802+00:00",
+            "owned": true
         },
         {
             "id": "b111cf39-338a-40ab-bfa8-4f88ba51b27f",
@@ -286,7 +294,8 @@
             "card_id": "228bcd1a-0b69-40ee-bd3d-0bf9e090bd1b",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T07:36:22.363153+00:00"
+            "obtained_at": "2026-10-01T07:36:22.363153+00:00",
+            "owned": true
         },
         {
             "id": "65edbf5c-9718-4c5e-9d9a-113711470655",
@@ -318,7 +327,8 @@
             "card_id": "19dec69a-dd45-49b3-883b-4488fd42e872",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T17:01:34.363496+00:00"
+            "obtained_at": "2026-09-30T17:01:34.363496+00:00",
+            "owned": true
         },
         {
             "id": "wanted-cac40-airbus",

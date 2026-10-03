@@ -30,7 +30,8 @@
             "card_id": "eb86b1aa-b78d-4298-9ea9-89de1a33b3ad",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T20:08:43.807313+00:00"
+            "obtained_at": "2026-10-02T20:08:43.807313+00:00",
+            "owned": true
         },
         {
             "id": "673672b4-f496-4741-b27e-4e93e503ded1",
@@ -62,7 +63,8 @@
             "card_id": "32aeb6bc-4501-4c2d-86f9-66313361fa74",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T19:02:31.243042+00:00"
+            "obtained_at": "2026-09-30T19:02:31.243042+00:00",
+            "owned": true
         },
         {
             "id": "52fe5470-5011-4602-be50-c04407fb4035",
@@ -94,7 +96,41 @@
             "card_id": "1568f711-93bf-463d-9ac6-30071bc4b9e8",
             "starred": true,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T17:49:06.45846+00:00"
+            "obtained_at": "2026-09-30T17:49:06.45846+00:00",
+            "owned": true
+        },
+        {
+            "id": "d4fcaae1-3e25-4eb0-8046-bb23d566a946",
+            "card": {
+                "id": "550883f4-71bb-4940-90da-b074163cab0b",
+                "atk": 5990,
+                "def": 4243,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 23.97,
+                "category": "équipement de sport cycliste",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/LOGO_VR-01.png/330px-LOGO_VR-01.png",
+                "pageviews": 2021,
+                "created_at": "2026-05-03T16:25:17.596337+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Van_Rysel",
+                "wikipedia_title": "Van Rysel"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "550883f4-71bb-4940-90da-b074163cab0b",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-03T10:27:46.632824+00:00",
+            "owned": true
         },
         {
             "id": "b35393db-4370-4b21-9af4-ad65f6f2fa99",
@@ -126,7 +162,8 @@
             "card_id": "47a2476c-2102-4804-8281-933053c8cc90",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T19:40:25.083525+00:00"
+            "obtained_at": "2026-10-02T19:40:25.083525+00:00",
+            "owned": true
         },
         {
             "id": "152527a9-b03b-49a1-a877-0cfe191123c3",
@@ -158,7 +195,8 @@
             "card_id": "76a68553-c124-47bc-86a8-71c44cd4cfe0",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T18:27:10.164909+00:00"
+            "obtained_at": "2026-10-02T18:27:10.164909+00:00",
+            "owned": true
         },
         {
             "id": "52cb3dff-61bf-4275-8969-42a9097152ee",
@@ -190,7 +228,8 @@
             "card_id": "56fd4367-f4f0-41af-ad3b-204ac5fde997",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T14:25:40.812047+00:00"
+            "obtained_at": "2026-10-02T14:25:40.812047+00:00",
+            "owned": true
         },
         {
             "id": "6bf2a068-ba1a-4195-a3c6-2364213f54a1",
@@ -222,7 +261,8 @@
             "card_id": "26d184ab-bef1-4d40-859a-1b48289b3614",
             "starred": true,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-29T14:44:52.577815+00:00"
+            "obtained_at": "2026-09-29T14:44:52.577815+00:00",
+            "owned": true
         },
         {
             "id": "79e871b4-1039-4395-8833-c6c0a183d03d",
@@ -254,7 +294,8 @@
             "card_id": "58ded216-39fc-4f42-9ff7-9866c4478d53",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T16:32:35.55623+00:00"
+            "obtained_at": "2026-10-02T16:32:35.55623+00:00",
+            "owned": true
         },
         {
             "id": "2a390503-93e0-4589-9fdf-55a347739d80",
@@ -286,7 +327,8 @@
             "card_id": "ddc637ae-3945-40ea-9395-0fe4bbcce907",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T20:08:53.916782+00:00"
+            "obtained_at": "2026-10-02T20:08:53.916782+00:00",
+            "owned": true
         },
         {
             "id": "62e4398e-e583-4359-8384-89e9e90b729c",
@@ -318,7 +360,8 @@
             "card_id": "152f196a-836a-4cc8-a1f0-731299ff1064",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T11:36:54.113773+00:00"
+            "obtained_at": "2026-10-01T11:36:54.113773+00:00",
+            "owned": true
         },
         {
             "id": "35012b29-650a-4e34-884a-a14f4b75c370",
@@ -350,7 +393,8 @@
             "card_id": "0a9d40d7-4f53-41b5-a9cc-65140c6828b2",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T09:03:30.506427+00:00"
+            "obtained_at": "2026-09-30T09:03:30.506427+00:00",
+            "owned": true
         },
         {
             "id": "62fa60ed-5544-4900-a367-8438ced107df",
@@ -382,7 +426,74 @@
             "card_id": "5ec71d54-3a22-4e23-8ca2-effec301e9c7",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-29T20:13:35.120124+00:00"
+            "obtained_at": "2026-09-29T20:13:35.120124+00:00",
+            "owned": true
+        },
+        {
+            "id": "e62e36cc-00de-4406-91e0-5417a9f8c8ea",
+            "card": {
+                "id": "fa9fbcf0-6ed1-43c9-865c-f31d980d754c",
+                "atk": 1933,
+                "def": 2830,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 12.2,
+                "category": "12e édition de Paris-Nice",
+                "image_url": null,
+                "pageviews": 20,
+                "created_at": "2026-04-16T23:11:05.709537+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Paris-Nice_1954",
+                "wikipedia_title": "Paris-Nice 1954"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "fa9fbcf0-6ed1-43c9-865c-f31d980d754c",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-03T11:39:47.982409+00:00",
+            "owned": true
+        },
+        {
+            "id": "43ab244a-3ab5-4269-a938-9aa2a0b0e319",
+            "card": {
+                "id": "603dca96-d359-4c7f-b935-6f4da3679000",
+                "atk": 2213,
+                "def": 3760,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 19.59,
+                "category": "étape du Tour de France 2013",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tour_de_France_2013_stage_16.png/330px-Tour_de_France_2013_stage_16.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 39,
+                "created_at": "2026-04-08T14:16:59.713794+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/16e_%C3%A9tape_du_Tour_de_France_2013",
+                "wikipedia_title": "16e étape du Tour de France 2013"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "603dca96-d359-4c7f-b935-6f4da3679000",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-03T08:50:24.93896+00:00",
+            "owned": true
         },
         {
             "id": "144944e0-9059-4165-a773-d9a1829e1665",
@@ -414,7 +525,8 @@
             "card_id": "321cc6e6-2c2d-44ec-9db3-96156cd465b0",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T20:43:39.47131+00:00"
+            "obtained_at": "2026-10-02T20:43:39.47131+00:00",
+            "owned": true
         },
         {
             "id": "9ec32b63-a607-4700-93d6-047076b7bce9",
@@ -446,7 +558,8 @@
             "card_id": "1577f4ce-cb01-437f-a7ec-29df01b63365",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T20:43:39.47131+00:00"
+            "obtained_at": "2026-10-02T20:43:39.47131+00:00",
+            "owned": true
         },
         {
             "id": "64d0a755-5b52-415d-b83c-fdaf91fefb68",
@@ -478,7 +591,8 @@
             "card_id": "9c4aa433-6f7c-4798-a100-6dacf58d1e89",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T13:26:16.004829+00:00"
+            "obtained_at": "2026-10-01T13:26:16.004829+00:00",
+            "owned": true
         },
         {
             "id": "aeeabed4-bd87-408d-9f98-33746e32f788",
@@ -510,7 +624,8 @@
             "card_id": "5d0041b4-9f63-4d40-87d1-673771417388",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T18:34:32.937024+00:00"
+            "obtained_at": "2026-09-30T18:34:32.937024+00:00",
+            "owned": true
         },
         {
             "id": "ae35366f-0346-4044-987a-b578f3281e10",
@@ -542,7 +657,8 @@
             "card_id": "30f6929e-0016-4d6b-8363-dbefd5e17d12",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T11:38:41.123218+00:00"
+            "obtained_at": "2026-09-30T11:38:41.123218+00:00",
+            "owned": true
         },
         {
             "id": "wanted-bike-pogacar",

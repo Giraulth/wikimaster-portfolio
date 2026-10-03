@@ -30,7 +30,8 @@
             "card_id": "22666bcd-5318-473a-80b2-b9c04fbf4fc2",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-03T08:49:45.843467+00:00"
+            "obtained_at": "2026-10-03T08:49:45.843467+00:00",
+            "owned": true
         },
         {
             "id": "82c8d718-eb6b-4845-ab32-c23928fad63f",
@@ -62,7 +63,8 @@
             "card_id": "3a90afec-58cf-409f-91a1-a4eb6547aa18",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-02T19:50:34.585735+00:00"
+            "obtained_at": "2026-10-02T19:50:34.585735+00:00",
+            "owned": true
         },
         {
             "id": "866442f2-a32e-403e-82f5-a2de65bb46ee",
@@ -94,7 +96,8 @@
             "card_id": "8162a377-32bd-483b-a51d-fb346e5fda3a",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T21:09:42.395848+00:00"
+            "obtained_at": "2026-09-30T21:09:42.395848+00:00",
+            "owned": true
         },
         {
             "id": "b3798d53-e8ab-4f49-bcab-fcfaf9b7a603",
@@ -126,7 +129,8 @@
             "card_id": "d17c3c03-fd4c-4cc0-b9c9-de53042b3e86",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-09-30T15:44:03.703786+00:00"
+            "obtained_at": "2026-09-30T15:44:03.703786+00:00",
+            "owned": true
         },
         {
             "id": "9a986509-dd19-49f4-8950-f2b199a9d0f3",
@@ -158,7 +162,8 @@
             "card_id": "66e6f53c-3dda-4b56-8cc2-73d341e4f299",
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
-            "obtained_at": "2026-10-01T17:07:14.699065+00:00"
+            "obtained_at": "2026-10-01T17:07:14.699065+00:00",
+            "owned": true
         }
     ],
     "total": null,
