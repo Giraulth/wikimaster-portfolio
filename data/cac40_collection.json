@@ -1,0 +1,928 @@
+{
+    "collection": [
+        {
+            "id": "d6fde093-7644-4cdb-b4a9-a4d152536b2d",
+            "card": {
+                "id": "85057e06-49aa-448a-8420-1a263e275de1",
+                "atk": 8811,
+                "def": 8825,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 81.2,
+                "category": "groupe hôtelier français",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/c/c3/Accor_Logo.png/330px-Accor_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 6106,
+                "created_at": "2026-04-16T18:09:22.092301+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Accor",
+                "wikipedia_title": "Accor"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "85057e06-49aa-448a-8420-1a263e275de1",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T18:02:26.177342+00:00"
+        },
+        {
+            "id": "78dca153-0f3c-4f43-8079-713f926a9c0a",
+            "card": {
+                "id": "ac6348c9-2633-4565-8103-0c0dbfa9995b",
+                "atk": 7287,
+                "def": 7882,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 67.26,
+                "category": "entreprise française produisant des gaz à visée industrielle ou médicale",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Air_Liquide12.jpg/330px-Air_Liquide12.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 3996,
+                "created_at": "2026-04-16T03:42:42.735921+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Air_liquide_(soci%C3%A9t%C3%A9)",
+                "wikipedia_title": "Air liquide (société)"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "ac6348c9-2633-4565-8103-0c0dbfa9995b",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T20:15:01.23866+00:00"
+        },
+        {
+            "id": "74c3b6ef-c674-49d6-92bb-488e99013537",
+            "card": {
+                "id": "47cd2cff-8b80-415d-89fe-dd7da2958486",
+                "atk": 7256,
+                "def": 7905,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 67.58,
+                "category": "assurance et groupe financier",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/330px-AXA_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 4139,
+                "created_at": "2026-04-13T00:51:00.46742+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Axa",
+                "wikipedia_title": "Axa"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "47cd2cff-8b80-415d-89fe-dd7da2958486",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T18:04:59.647452+00:00"
+        },
+        {
+            "id": "9a927f21-14ab-4ce3-98eb-bcfcaac72266",
+            "card": {
+                "id": "86ac36ce-ea4e-4bec-9479-bbad76460673",
+                "atk": 9000,
+                "def": 9288,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 88.42,
+                "category": "groupe industriel multinational fondé en France",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/c/ca/Danone_Logo_corporate.png/330px-Danone_Logo_corporate.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 8465,
+                "created_at": "2026-04-16T01:36:30.744933+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Danone",
+                "wikipedia_title": "Danone"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "86ac36ce-ea4e-4bec-9479-bbad76460673",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T21:29:28.131648+00:00"
+        },
+        {
+            "id": "d6ef825a-5a96-4a90-a738-a7b01e7bbf10",
+            "card": {
+                "id": "459133bb-a599-446a-815d-8fd7df400e40",
+                "atk": 6914,
+                "def": 6792,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 52.49,
+                "category": "société européenne de services financiers",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Beursplein_5_%28cropped_and_edited%29.jpg/330px-Beursplein_5_%28cropped_and_edited%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 3085,
+                "created_at": "2026-04-30T02:13:50.759755+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Euronext",
+                "wikipedia_title": "Euronext"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "459133bb-a599-446a-815d-8fd7df400e40",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T18:10:54.241039+00:00"
+        },
+        {
+            "id": "9bbb0d05-f09f-4073-802b-c17adc44f817",
+            "card": {
+                "id": "a84e31e3-4828-4497-bda2-fde906598688",
+                "atk": 8599,
+                "def": 7727,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 65.07,
+                "category": "groupe français du secteur du luxe",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/H%C3%B4pital_Laennec%2C_Rue_de_S%C3%A8vres%2C_Paris.jpg/330px-H%C3%B4pital_Laennec%2C_Rue_de_S%C3%A8vres%2C_Paris.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 10632,
+                "created_at": "2026-04-24T19:22:47.595807+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Kering",
+                "wikipedia_title": "Kering"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "a84e31e3-4828-4497-bda2-fde906598688",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T17:32:23.3829+00:00"
+        },
+        {
+            "id": "ed0b93a8-a576-4aac-af0d-feb9186dba36",
+            "card": {
+                "id": "5eddbe8e-cf2f-43e6-8c14-776b8e745eb5",
+                "atk": 9000,
+                "def": 8840,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 81.43,
+                "category": "entreprise de télécommunications multinationale française",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/330px-Orange_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 7947,
+                "created_at": "2026-04-22T15:51:04.681651+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Orange_(entreprise)",
+                "wikipedia_title": "Orange (entreprise)"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "5eddbe8e-cf2f-43e6-8c14-776b8e745eb5",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T09:08:15.268348+00:00"
+        },
+        {
+            "id": "d40b1808-0986-498c-886f-e2666598e08b",
+            "card": {
+                "id": "d505cf6b-cddf-4cd1-bf2b-80cee1930623",
+                "atk": 9000,
+                "def": 8400,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 74.79,
+                "category": "banque française",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Si%C3%A8ge_central_de_la_Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale_ext%C3%A9rieur.jpg/330px-Si%C3%A8ge_central_de_la_Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale_ext%C3%A9rieur.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 8021,
+                "created_at": "2026-04-30T18:21:25.455367+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_g%C3%A9n%C3%A9rale",
+                "wikipedia_title": "Société générale"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "d505cf6b-cddf-4cd1-bf2b-80cee1930623",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T17:18:32.338802+00:00"
+        },
+        {
+            "id": "b111cf39-338a-40ab-bfa8-4f88ba51b27f",
+            "card": {
+                "id": "228bcd1a-0b69-40ee-bd3d-0bf9e090bd1b",
+                "atk": 9000,
+                "def": 9199,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 87.02,
+                "category": "multinationale française de production et de fourniture d'hydrocarbures",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/f/f7/Logo_TotalEnergies.svg/330px-Logo_TotalEnergies.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 10537,
+                "created_at": "2026-05-07T13:18:16.890302+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/TotalEnergies",
+                "wikipedia_title": "TotalEnergies"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "228bcd1a-0b69-40ee-bd3d-0bf9e090bd1b",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T07:36:22.363153+00:00"
+        },
+        {
+            "id": "65edbf5c-9718-4c5e-9d9a-113711470655",
+            "card": {
+                "id": "19dec69a-dd45-49b3-883b-4488fd42e872",
+                "atk": 7147,
+                "def": 7893,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 67.41,
+                "category": "multinationale française spécialiste des domaines de l'environnement et de l’énergie",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/024V2781_2.jpg/330px-024V2781_2.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 3727,
+                "created_at": "2026-04-02T14:13:01.24077+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Veolia",
+                "wikipedia_title": "Veolia"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "19dec69a-dd45-49b3-883b-4488fd42e872",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T17:01:34.363496+00:00"
+        },
+        {
+            "id": "wanted-cac40-airbus",
+            "card": {
+                "id": "wanted-cac40-airbus",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": null,
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Airbus",
+                "wikipedia_title": "Airbus"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-arcelormittal",
+            "card": {
+                "id": "wanted-cac40-arcelormittal",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/ArcelorMittalLuxemburg.JPG/330px-ArcelorMittalLuxemburg.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/ArcelorMittal",
+                "wikipedia_title": "ArcelorMittal"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-bnp-paribas",
+            "card": {
+                "id": "wanted-cac40-bnp-paribas",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20BNP%20Paribas%202016.svg?width=330",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/BNP_Paribas",
+                "wikipedia_title": "BNP Paribas"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-bouygues",
+            "card": {
+                "id": "wanted-cac40-bouygues",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Bouygues_logo.svg/330px-Bouygues_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Bouygues",
+                "wikipedia_title": "Bouygues"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-bureau-veritas",
+            "card": {
+                "id": "wanted-cac40-bureau-veritas",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bureau_Veritas_Hamburg_02.jpg/330px-Bureau_Veritas_Hamburg_02.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Bureau_Veritas",
+                "wikipedia_title": "Bureau Veritas"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-capgemini",
+            "card": {
+                "id": "wanted-cac40-capgemini",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/11_rue_de_Tilsitt.jpg/330px-11_rue_de_Tilsitt.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Capgemini",
+                "wikipedia_title": "Capgemini"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-carrefour",
+            "card": {
+                "id": "wanted-cac40-carrefour",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carrefour%20International.jpg?width=330",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Carrefour",
+                "wikipedia_title": "Carrefour"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-credit-agricole",
+            "card": {
+                "id": "wanted-cac40-credit-agricole",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Cr%C3%A9dit_Agricole_2020_logo.svg/330px-Cr%C3%A9dit_Agricole_2020_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_agricole",
+                "wikipedia_title": "Crédit Agricole"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-dassault-systemes",
+            "card": {
+                "id": "wanted-cac40-dassault-systemes",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Dassault_Syst%C3%A8mes_headquarters.jpg/330px-Dassault_Syst%C3%A8mes_headquarters.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Dassault_Syst%C3%A8mes",
+                "wikipedia_title": "Dassault Systèmes"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-eiffage",
+            "card": {
+                "id": "wanted-cac40-eiffage",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eiffage%20logo.svg?width=330",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Eiffage",
+                "wikipedia_title": "Eiffage"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-engie",
+            "card": {
+                "id": "wanted-cac40-engie",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Engie_logo_%282026%29.svg/330px-Engie_logo_%282026%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Engie",
+                "wikipedia_title": "Engie"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-essilorluxottica",
+            "card": {
+                "id": "wanted-cac40-essilorluxottica",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20EssilorLuxottica.svg?width=330",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/EssilorLuxottica",
+                "wikipedia_title": "EssilorLuxottica"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-eurofins-scientific",
+            "card": {
+                "id": "wanted-cac40-eurofins-scientific",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Eurofins_Calscience_Headquarters_Garden_Grove_California_2022.JPG/330px-Eurofins_Calscience_Headquarters_Garden_Grove_California_2022.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Eurofins_Scientific",
+                "wikipedia_title": "Eurofins Scientific"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-hermes-international",
+            "card": {
+                "id": "wanted-cac40-hermes-international",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Hermes_Logo.png/330px-Hermes_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Herm%C3%A8s_International",
+                "wikipedia_title": "Hermès International"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-legrand",
+            "card": {
+                "id": "wanted-cac40-legrand",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Legrand%20SA.svg?width=330",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Legrand_(entreprise)",
+                "wikipedia_title": "Legrand"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-l-oreal",
+            "card": {
+                "id": "wanted-cac40-l-oreal",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/14_rue_Royale_%C3%A0_Paris.JPG/330px-14_rue_Royale_%C3%A0_Paris.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Or%C3%A9al",
+                "wikipedia_title": "L'Oréal"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-lvmh",
+            "card": {
+                "id": "wanted-cac40-lvmh",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/LVMH%20logo.svg?width=330",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/LVMH_-_Mo%C3%ABt_Hennessy_Louis_Vuitton",
+                "wikipedia_title": "LVMH"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-michelin",
+            "card": {
+                "id": "wanted-cac40-michelin",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Si%C3%A8ge_de_Michelin_%C3%A0_Clermont-Ferrand_II.jpg/330px-Si%C3%A8ge_de_Michelin_%C3%A0_Clermont-Ferrand_II.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Michelin",
+                "wikipedia_title": "Michelin"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-pernod-ricard",
+            "card": {
+                "id": "wanted-cac40-pernod-ricard",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Pernod_Ricard_logo_2019.svg/330px-Pernod_Ricard_logo_2019.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Pernod_Ricard",
+                "wikipedia_title": "Pernod Ricard"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-publicis-groupe",
+            "card": {
+                "id": "wanted-cac40-publicis-groupe",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Publicis_Drugstore_%28652%29.jpg/330px-Publicis_Drugstore_%28652%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Publicis_Groupe",
+                "wikipedia_title": "Publicis Groupe"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-renault",
+            "card": {
+                "id": "wanted-cac40-renault",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": null,
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Renault",
+                "wikipedia_title": "Renault"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-safran",
+            "card": {
+                "id": "wanted-cac40-safran",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": null,
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Safran_(entreprise)",
+                "wikipedia_title": "Safran"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-saint-gobain",
+            "card": {
+                "id": "wanted-cac40-saint-gobain",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/dc/Saint-Gobain_logo.svg/330px-Saint-Gobain_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Saint-Gobain",
+                "wikipedia_title": "Saint-Gobain"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-sanofi",
+            "card": {
+                "id": "wanted-cac40-sanofi",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg/330px-Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Sanofi",
+                "wikipedia_title": "Sanofi"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-schneider-electric",
+            "card": {
+                "id": "wanted-cac40-schneider-electric",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Head-office-Schneider_Electric.jpg/330px-Head-office-Schneider_Electric.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Schneider_Electric",
+                "wikipedia_title": "Schneider Electric"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-stellantis",
+            "card": {
+                "id": "wanted-cac40-stellantis",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Zuidtoren_Hoofddorp.jpg/330px-Zuidtoren_Hoofddorp.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Stellantis",
+                "wikipedia_title": "Stellantis"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-stmicroelectronics",
+            "card": {
+                "id": "wanted-cac40-stmicroelectronics",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/STMicroelectronics-building.JPG/330px-STMicroelectronics-building.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/STMicroelectronics",
+                "wikipedia_title": "STMicroelectronics"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-thales",
+            "card": {
+                "id": "wanted-cac40-thales",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Thales_Paris-Saclay.JPG/330px-Thales_Paris-Saclay.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Thales",
+                "wikipedia_title": "Thales"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-unibail-rodamco-westfield",
+            "card": {
+                "id": "wanted-cac40-unibail-rodamco-westfield",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Unibail_Rodamco_Westfield.jpg/330px-Unibail_Rodamco_Westfield.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Unibail-Rodamco-Westfield",
+                "wikipedia_title": "Unibail-Rodamco-Westfield"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        },
+        {
+            "id": "wanted-cac40-vinci",
+            "card": {
+                "id": "wanted-cac40-vinci",
+                "rarity": "?",
+                "category": "entreprise du CAC 40",
+                "image_url": null,
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Vinci_(entreprise)",
+                "wikipedia_title": "Vinci"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8"
+                }
+            ],
+            "owned": false
+        }
+    ],
+    "total": null,
+    "rarityCounts": {},
+    "tagOptions": [],
+    "pendingTradeCardIds": []
+}

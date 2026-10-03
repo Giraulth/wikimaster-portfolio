@@ -1,0 +1,552 @@
+{
+    "collection": [
+        {
+            "id": "bfdf0c44-e4d4-47a0-817e-b9d334d1a4ed",
+            "card": {
+                "id": "eb86b1aa-b78d-4298-9ea9-89de1a33b3ad",
+                "atk": 8617,
+                "def": 5924,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 41.79,
+                "category": "coureur cycliste danois",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Mads_Pedersen_%282025-05-14%29.jpeg/330px-Mads_Pedersen_%282025-05-14%29.jpeg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 7179,
+                "created_at": "2026-04-16T01:25:02.920564+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Mads_Pedersen",
+                "wikipedia_title": "Mads Pedersen"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "eb86b1aa-b78d-4298-9ea9-89de1a33b3ad",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T20:08:43.807313+00:00"
+        },
+        {
+            "id": "673672b4-f496-4741-b27e-4e93e503ded1",
+            "card": {
+                "id": "32aeb6bc-4501-4c2d-86f9-66313361fa74",
+                "atk": 7911,
+                "def": 4871,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 30.16,
+                "category": "coureur cycliste français, devenu directeur sportif",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Barlin_-_Quatre_jours_de_Dunkerque%2C_%C3%A9tape_3%2C_8_mai_2015%2C_d%C3%A9part_%28B068%29.JPG/330px-Barlin_-_Quatre_jours_de_Dunkerque%2C_%C3%A9tape_3%2C_8_mai_2015%2C_d%C3%A9part_%28B068%29.JPG",
+                "pageviews": 9650,
+                "created_at": "2026-05-05T12:38:40.810748+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Marc_Madiot",
+                "wikipedia_title": "Marc Madiot"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "32aeb6bc-4501-4c2d-86f9-66313361fa74",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T19:02:31.243042+00:00"
+        },
+        {
+            "id": "52fe5470-5011-4602-be50-c04407fb4035",
+            "card": {
+                "id": "1568f711-93bf-463d-9ac6-30071bc4b9e8",
+                "atk": 7723,
+                "def": 4883,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 30.29,
+                "category": "coureur cycliste français",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Jacky_DURAND.jpg/330px-Jacky_DURAND.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 8141,
+                "created_at": "2026-04-21T17:12:58.454473+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Jacky_Durand",
+                "wikipedia_title": "Jacky Durand"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "1568f711-93bf-463d-9ac6-30071bc4b9e8",
+            "starred": true,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T17:49:06.45846+00:00"
+        },
+        {
+            "id": "b35393db-4370-4b21-9af4-ad65f6f2fa99",
+            "card": {
+                "id": "47a2476c-2102-4804-8281-933053c8cc90",
+                "atk": 6651,
+                "def": 4941,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 30.89,
+                "category": "coureur cycliste français",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bruno_Armirail_on_the_podium_at_the_presentation_ceremony_for_Stage_5_of_the_2026_Tour_de_France.jpg/330px-Bruno_Armirail_on_the_podium_at_the_presentation_ceremony_for_Stage_5_of_the_2026_Tour_de_France.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 2610,
+                "created_at": "2026-04-24T02:07:37.234226+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Bruno_Armirail",
+                "wikipedia_title": "Bruno Armirail"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "47a2476c-2102-4804-8281-933053c8cc90",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T19:40:25.083525+00:00"
+        },
+        {
+            "id": "152527a9-b03b-49a1-a877-0cfe191123c3",
+            "card": {
+                "id": "76a68553-c124-47bc-86a8-71c44cd4cfe0",
+                "atk": 7102,
+                "def": 6870,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 53.49,
+                "category": "coureur cycliste français",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Valentin_Madouas_%282016-04-09%29_-_Oudenaarde_-_Ronde_van_Vlaanderen_Beloften.jpg/330px-Valentin_Madouas_%282016-04-09%29_-_Oudenaarde_-_Ronde_van_Vlaanderen_Beloften.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 1779,
+                "created_at": "2026-04-09T19:11:55.40376+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Valentin_Madouas",
+                "wikipedia_title": "Valentin Madouas"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "76a68553-c124-47bc-86a8-71c44cd4cfe0",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T18:27:10.164909+00:00"
+        },
+        {
+            "id": "52cb3dff-61bf-4275-8969-42a9097152ee",
+            "card": {
+                "id": "56fd4367-f4f0-41af-ad3b-204ac5fde997",
+                "atk": 6692,
+                "def": 4882,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 30.28,
+                "category": "coureur cycliste néerlandais",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Rund_um_K%C3%B6ln_2026_113.jpg/330px-Rund_um_K%C3%B6ln_2026_113.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 2093,
+                "created_at": "2026-04-09T00:41:44.782019+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Fabio_Jakobsen",
+                "wikipedia_title": "Fabio Jakobsen"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "56fd4367-f4f0-41af-ad3b-204ac5fde997",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T14:25:40.812047+00:00"
+        },
+        {
+            "id": "6bf2a068-ba1a-4195-a3c6-2364213f54a1",
+            "card": {
+                "id": "26d184ab-bef1-4d40-859a-1b48289b3614",
+                "atk": 6109,
+                "def": 3852,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 20.39,
+                "category": "coureur cycliste britannique",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2024_ToB_stage_6_-_034_Oscar_Onley.JPG/330px-2024_ToB_stage_6_-_034_Oscar_Onley.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 2359,
+                "created_at": "2026-04-14T00:02:22.299809+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Oscar_Onley",
+                "wikipedia_title": "Oscar Onley"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "26d184ab-bef1-4d40-859a-1b48289b3614",
+            "starred": true,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-29T14:44:52.577815+00:00"
+        },
+        {
+            "id": "79e871b4-1039-4395-8833-c6c0a183d03d",
+            "card": {
+                "id": "58ded216-39fc-4f42-9ff7-9866c4478d53",
+                "atk": 4630,
+                "def": 3137,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 14.49,
+                "category": "coureuse cycliste tchèque",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Julia_Kopeck%C3%BD_-_Pr%C3%A9sentation_TCFIA_2025.jpg/330px-Julia_Kopeck%C3%BD_-_Pr%C3%A9sentation_TCFIA_2025.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 262,
+                "created_at": "2026-04-24T22:51:51.800043+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Julia_Kopeck%C3%BD",
+                "wikipedia_title": "Julia Kopecký"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "58ded216-39fc-4f42-9ff7-9866c4478d53",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T16:32:35.55623+00:00"
+        },
+        {
+            "id": "2a390503-93e0-4589-9fdf-55a347739d80",
+            "card": {
+                "id": "ddc637ae-3945-40ea-9395-0fe4bbcce907",
+                "atk": 2788,
+                "def": 3985,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 21.59,
+                "category": "route pavée utilisée dans le cyclisme professionnel",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Route_pav%C3%A9e_crt_2002.jpg/330px-Route_pav%C3%A9e_crt_2002.jpg",
+                "pageviews": 77,
+                "created_at": "2026-05-16T13:08:53.634367+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Secteur_pav%C3%A9",
+                "wikipedia_title": "Secteur pavé"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "ddc637ae-3945-40ea-9395-0fe4bbcce907",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T20:08:53.916782+00:00"
+        },
+        {
+            "id": "62e4398e-e583-4359-8384-89e9e90b729c",
+            "card": {
+                "id": "152f196a-836a-4cc8-a1f0-731299ff1064",
+                "atk": 3273,
+                "def": 4909,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 30.55,
+                "category": "phénomène physique",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/L%27Am%C3%A9ricain_Albert_Marquet_le_12_avril_1937_%C3%A0_Los_Angeles%2C_recordman_mondial_de_vitesse_%C3%A0_v%C3%A9lo_sur_le_plat_derri%C3%A8re_abri_%28139%2C902_kmh%2C_aspir%C3%A9_par_une_voiture%29_-_2.jpg/330px-thumbnail.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 192,
+                "created_at": "2026-03-24T21:14:27.631288+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Aspiration_(physique)",
+                "wikipedia_title": "Aspiration (physique)"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "152f196a-836a-4cc8-a1f0-731299ff1064",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T11:36:54.113773+00:00"
+        },
+        {
+            "id": "35012b29-650a-4e34-884a-a14f4b75c370",
+            "card": {
+                "id": "0a9d40d7-4f53-41b5-a9cc-65140c6828b2",
+                "atk": 3342,
+                "def": 3798,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 19.92,
+                "category": "course cycliste",
+                "image_url": null,
+                "pageviews": 195,
+                "created_at": "2026-04-20T01:09:23.641554+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Tour_d%27Italie_2002",
+                "wikipedia_title": "Tour d'Italie 2002"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "0a9d40d7-4f53-41b5-a9cc-65140c6828b2",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T09:03:30.506427+00:00"
+        },
+        {
+            "id": "62fa60ed-5544-4900-a367-8438ced107df",
+            "card": {
+                "id": "5ec71d54-3a22-4e23-8ca2-effec301e9c7",
+                "atk": 3170,
+                "def": 3661,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 18.74,
+                "category": "compétition de cyclisme",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Guillaume_Van_Keirsbulck.jpg/330px-Guillaume_Van_Keirsbulck.jpg",
+                "pageviews": 128,
+                "created_at": "2026-04-04T18:34:33.338532+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Paris-Roubaix_juniors",
+                "wikipedia_title": "Paris-Roubaix juniors"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "5ec71d54-3a22-4e23-8ca2-effec301e9c7",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-29T20:13:35.120124+00:00"
+        },
+        {
+            "id": "144944e0-9059-4165-a773-d9a1829e1665",
+            "card": {
+                "id": "321cc6e6-2c2d-44ec-9db3-96156cd465b0",
+                "atk": 2347,
+                "def": 4708,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 28.5,
+                "category": "Course cycliste",
+                "image_url": null,
+                "pageviews": 24,
+                "created_at": "2026-04-29T21:54:18.674883+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Tour_de_Romandie_2008",
+                "wikipedia_title": "Tour de Romandie 2008"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "321cc6e6-2c2d-44ec-9db3-96156cd465b0",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T20:43:39.47131+00:00"
+        },
+        {
+            "id": "9ec32b63-a607-4700-93d6-047076b7bce9",
+            "card": {
+                "id": "1577f4ce-cb01-437f-a7ec-29df01b63365",
+                "atk": 1796,
+                "def": 4535,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 26.77,
+                "category": "coureur cycliste belge",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Boussu_-_Grand_Prix_Criquielion%2C_17_mai_2014%2C_d%C3%A9part_%28B090%29.JPG/330px-Boussu_-_Grand_Prix_Criquielion%2C_17_mai_2014%2C_d%C3%A9part_%28B090%29.JPG",
+                "pageviews": 7,
+                "created_at": "2026-04-16T19:52:32.455536+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Rudy_Rouet",
+                "wikipedia_title": "Rudy Rouet"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "1577f4ce-cb01-437f-a7ec-29df01b63365",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T20:43:39.47131+00:00"
+        },
+        {
+            "id": "64d0a755-5b52-415d-b83c-fdaf91fefb68",
+            "card": {
+                "id": "9c4aa433-6f7c-4798-a100-6dacf58d1e89",
+                "atk": 1749,
+                "def": 3996,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 21.68,
+                "category": "cycliste canadien",
+                "image_url": null,
+                "pageviews": 4,
+                "created_at": "2026-05-07T21:00:16.999939+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Oliver_Evans_(cyclisme)",
+                "wikipedia_title": "Oliver Evans (cyclisme)"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "9c4aa433-6f7c-4798-a100-6dacf58d1e89",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T13:26:16.004829+00:00"
+        },
+        {
+            "id": "aeeabed4-bd87-408d-9f98-33746e32f788",
+            "card": {
+                "id": "5d0041b4-9f63-4d40-87d1-673771417388",
+                "atk": 1619,
+                "def": 2488,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 9.85,
+                "category": "étape du Tour d'Espagne 2004",
+                "image_url": null,
+                "pageviews": 4,
+                "created_at": "2026-04-16T23:11:41.181944+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/21e_%C3%A9tape_du_Tour_d%27Espagne_2004",
+                "wikipedia_title": "21e étape du Tour d'Espagne 2004"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "5d0041b4-9f63-4d40-87d1-673771417388",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T18:34:32.937024+00:00"
+        },
+        {
+            "id": "ae35366f-0346-4044-987a-b578f3281e10",
+            "card": {
+                "id": "30f6929e-0016-4d6b-8363-dbefd5e17d12",
+                "atk": 1949,
+                "def": 2737,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 11.54,
+                "category": "compétition sportive",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/MaillotSlovakia.png/330px-MaillotSlovakia.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 9,
+                "created_at": "2026-04-06T20:22:51.158309+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnats_de_Slovaquie_de_cyclo-cross",
+                "wikipedia_title": "Championnats de Slovaquie de cyclo-cross"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "30f6929e-0016-4d6b-8363-dbefd5e17d12",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T11:38:41.123218+00:00"
+        }
+    ],
+    "total": null,
+    "rarityCounts": {},
+    "tagOptions": [],
+    "pendingTradeCardIds": []
+}

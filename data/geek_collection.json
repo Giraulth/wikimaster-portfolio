@@ -1,0 +1,232 @@
+{
+    "collection": [
+        {
+            "id": "2a8236ae-3b14-4146-9ada-312b793ceafc",
+            "card": {
+                "id": "07fb41a3-a30f-4ffc-a621-de36cdca6e29",
+                "atk": 6228,
+                "def": 4684,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 28.25,
+                "category": "société américaine d'informatique nuagique",
+                "image_url": null,
+                "pageviews": 1565,
+                "created_at": "2026-04-22T19:37:43.530501+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Datadog",
+                "wikipedia_title": "Datadog"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "07fb41a3-a30f-4ffc-a621-de36cdca6e29",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T08:00:23.288354+00:00"
+        },
+        {
+            "id": "703faa37-02e8-4ad0-9b51-23cd32ebe64a",
+            "card": {
+                "id": "a556290f-6686-40cf-9cc0-b5d93dadf180",
+                "atk": 4905,
+                "def": 4914,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 30.61,
+                "category": "logiciel libre",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clickhouse.png/330px-Clickhouse.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 370,
+                "created_at": "2026-04-23T19:51:19.610181+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/ClickHouse",
+                "wikipedia_title": "ClickHouse"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "a556290f-6686-40cf-9cc0-b5d93dadf180",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-29T15:47:18.955983+00:00"
+        },
+        {
+            "id": "93da568c-70bc-4f26-83ba-f9f5a24960be",
+            "card": {
+                "id": "c8109612-34f0-4f47-9f52-e776e3dfea1e",
+                "atk": 2888,
+                "def": 1495,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 4.21,
+                "category": "type de logiciel utilisé pour éditer un code source",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Visual_studio_code_updated.png/330px-Visual_studio_code_updated.png",
+                "pageviews": 62,
+                "created_at": "2026-03-29T13:19:14.465153+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/%C3%89diteur_de_code_source",
+                "wikipedia_title": "Éditeur de code source"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "c8109612-34f0-4f47-9f52-e776e3dfea1e",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T15:03:59.459712+00:00"
+        },
+        {
+            "id": "48ee3787-c715-4dbd-8611-170d6ca86086",
+            "card": {
+                "id": "ec42ffc0-1e9f-4f04-8f6d-3dc18cf47bad",
+                "atk": 2878,
+                "def": 3193,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 14.92,
+                "category": null,
+                "image_url": null,
+                "pageviews": 104,
+                "created_at": "2026-04-16T15:55:20.231149+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Commit",
+                "wikipedia_title": "Commit"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "ec42ffc0-1e9f-4f04-8f6d-3dc18cf47bad",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-01T09:17:25.72122+00:00"
+        },
+        {
+            "id": "272aa266-b57b-4026-8a5c-9d68357b7667",
+            "card": {
+                "id": "ccb79072-6377-4d34-9811-c3fc0ae863fd",
+                "atk": 3006,
+                "def": 4543,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 26.85,
+                "category": null,
+                "image_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Apple_Rappels.svg/330px-Apple_Rappels.svg.png",
+                "pageviews": 66,
+                "created_at": "2026-04-17T01:16:35.874445+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Rappels_(Apple)",
+                "wikipedia_title": "Rappels (Apple)"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "ccb79072-6377-4d34-9811-c3fc0ae863fd",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T10:22:31.516269+00:00"
+        },
+        {
+            "id": "c9765645-4908-4369-ac90-c1a1e97d5d42",
+            "card": {
+                "id": "418ded46-f8a8-4044-9a6b-1ebdaf512b5e",
+                "atk": 1817,
+                "def": 3787,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 19.82,
+                "category": null,
+                "image_url": null,
+                "pageviews": 42,
+                "created_at": "2026-05-17T20:14:28.973827+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Enregistrement_DNS_SSHFP",
+                "wikipedia_title": "Enregistrement DNS SSHFP"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "418ded46-f8a8-4044-9a6b-1ebdaf512b5e",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-02T10:19:28.692998+00:00"
+        },
+        {
+            "id": "befc8bc3-b48b-421e-9f44-7df5fa9d45f3",
+            "card": {
+                "id": "ff77cdfa-fd30-4dd1-9c4e-feb1e9a851f1",
+                "atk": 1628,
+                "def": 4128,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 22.89,
+                "category": "système d'exploitation",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/RedFlag_Linux-Logo.svg/330px-RedFlag_Linux-Logo.svg.png",
+                "pageviews": 12,
+                "created_at": "2026-04-09T18:56:42.638948+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Red_Flag_Linux",
+                "wikipedia_title": "Red Flag Linux"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "ff77cdfa-fd30-4dd1-9c4e-feb1e9a851f1",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-09-30T11:39:07.51642+00:00"
+        }
+    ],
+    "total": null,
+    "rarityCounts": {},
+    "tagOptions": [],
+    "pendingTradeCardIds": []
+}
