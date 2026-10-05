@@ -163,6 +163,31 @@ class UpdateCollectionsTests(unittest.TestCase):
         self.assertTrue(merged["collection"][0]["owned"])
         self.assertEqual(stats["promoted"], 1)
 
+    def test_merge_matches_wanted_cards_by_wikipedia_url_aliases(self) -> None:
+        wanted_lvmh = make_entry("wanted-lvmh", "LVMH", owned=False)
+        wanted_vinci = make_entry("wanted-vinci", "Vinci", owned=False)
+        wanted_lvmh["card"][
+            "wikipedia_url"
+        ] = "https://fr.wikipedia.org/wiki/LVMH_-_Mo%C3%ABt_Hennessy_Louis_Vuitton"
+        wanted_vinci["card"][
+            "wikipedia_url"
+        ] = "https://fr.wikipedia.org/wiki/Vinci_(entreprise)"
+
+        api_lvmh = make_entry("api-lvmh", "LVMH - Moët Hennessy Louis Vuitton")
+        api_vinci = make_entry("api-vinci", "Vinci (entreprise)")
+
+        merged, stats = merge_collection(
+            {"collection": [wanted_lvmh, wanted_vinci]},
+            {},
+            [api_lvmh, api_vinci],
+        )
+
+        self.assertEqual(
+            [entry["card"]["id"] for entry in merged["collection"]],
+            ["api-lvmh", "api-vinci"],
+        )
+        self.assertEqual(stats["promoted"], 2)
+
     def test_failed_collection_request_does_not_write_any_json_files(self) -> None:
         with tempfile.TemporaryDirectory() as temporary_directory:
             root = Path(temporary_directory)

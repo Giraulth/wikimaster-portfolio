@@ -34,6 +34,39 @@
             "owned": true
         },
         {
+            "id": "0b267b3f-fda9-476b-89fd-ecc271e1eb88",
+            "card": {
+                "id": "11b49de2-af7f-4907-a149-55d5197ecd36",
+                "atk": 4733,
+                "def": 4991,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 31.41,
+                "category": "marque commerciale de Nokia Corporation, utilisée sous licence par TCL Communication",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Acatel_Idol_3_smartphones.jpg/330px-Acatel_Idol_3_smartphones.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 709,
+                "created_at": "2026-04-08T17:42:48.273428+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Alcatel_Mobile",
+                "wikipedia_title": "Alcatel Mobile"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "11b49de2-af7f-4907-a149-55d5197ecd36",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-05T12:59:33.532208+00:00",
+            "owned": true
+        },
+        {
             "id": "703faa37-02e8-4ad0-9b51-23cd32ebe64a",
             "card": {
                 "id": "a556290f-6686-40cf-9cc0-b5d93dadf180",

@@ -331,6 +331,39 @@
             "owned": true
         },
         {
+            "id": "e991166f-9cb2-4f19-b6cf-50227b5c8ef1",
+            "card": {
+                "id": "0aada6f0-1ba7-4464-b355-6bf871b1ab11",
+                "atk": 4306,
+                "def": 3789,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 19.84,
+                "category": "coureuse cycliste professionnelle française",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Laura_Asencio_-_Pr%C3%A9sentation_TCFIA_2025.jpg/330px-Laura_Asencio_-_Pr%C3%A9sentation_TCFIA_2025.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 691,
+                "created_at": "2026-04-14T11:16:12.957553+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Laura_Asencio",
+                "wikipedia_title": "Laura Asencio"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "0aada6f0-1ba7-4464-b355-6bf871b1ab11",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-05T17:55:14.128807+00:00",
+            "owned": true
+        },
+        {
             "id": "730f5e3a-8317-4802-bd32-42549ab8c728",
             "card": {
                 "id": "26e81472-9e06-4fcd-8c51-961430497d75",
@@ -394,6 +427,39 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-10-02T16:32:35.55623+00:00",
+            "owned": true
+        },
+        {
+            "id": "63d3fe59-9834-4e84-99ec-09e7d05ff36e",
+            "card": {
+                "id": "76f10bee-1f0b-4f99-b819-c4693b61d2d2",
+                "atk": 3280,
+                "def": 3959,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 21.35,
+                "category": "compétition de cyclisme",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rick_Van_Looy_en_1966.jpg/330px-Rick_Van_Looy_en_1966.jpg",
+                "pageviews": 116,
+                "created_at": "2026-04-21T16:20:42.533341+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Tour_de_Sardaigne",
+                "wikipedia_title": "Tour de Sardaigne"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "76f10bee-1f0b-4f99-b819-c4693b61d2d2",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-05T17:54:40.012055+00:00",
             "owned": true
         },
         {
@@ -559,6 +625,39 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-09-29T20:13:35.120124+00:00",
+            "owned": true
+        },
+        {
+            "id": "7925797f-b1a8-45ca-aeab-f77685777587",
+            "card": {
+                "id": "32f4ea35-b71d-4e72-94ff-2b7e0cfdaae0",
+                "atk": 2014,
+                "def": 3525,
+                "lang": "fr",
+                "rarity": "C",
+                "q_score": 17.6,
+                "category": "étape du Tour de France 1985",
+                "image_url": null,
+                "pageviews": 9,
+                "created_at": "2026-05-06T16:05:25.00942+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/1re_%C3%A9tape_du_Tour_de_France_1985",
+                "wikipedia_title": "1re étape du Tour de France 1985"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "32f4ea35-b71d-4e72-94ff-2b7e0cfdaae0",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-05T16:17:41.256464+00:00",
             "owned": true
         },
         {

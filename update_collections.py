@@ -185,13 +185,40 @@ def _wiki_key(entry: dict[str, Any]) -> str:
     return ""
 
 
+def _wiki_keys(entry: dict[str, Any]) -> set[str]:
+    card = entry.get("card")
+    if not isinstance(card, dict):
+        return set()
+
+    titles: list[str] = []
+    title = card.get("wikipedia_title")
+    if isinstance(title, str) and title.strip():
+        titles.append(title.strip())
+
+    wiki_url = card.get("wikipedia_url")
+    if isinstance(wiki_url, str) and wiki_url.strip():
+        path_title = unquote(urlsplit(wiki_url).path.rsplit("/", 1)[-1]).replace(
+            "_", " "
+        )
+        if path_title:
+            titles.append(path_title)
+
+    keys: set[str] = set()
+    for value in titles:
+        aliases = {value}
+        without_disambiguation = re.sub(r"\s*\([^()]*\)\s*$", "", value).strip()
+        if without_disambiguation:
+            aliases.add(without_disambiguation)
+        keys.update(key for alias in aliases if (key := _normalize_title(alias)))
+    return keys
+
+
 def _identity_keys(entry: dict[str, Any]) -> set[tuple[str, str]]:
     keys: set[tuple[str, str]] = set()
     card_id = _card_id(entry)
-    wiki_key = _wiki_key(entry)
     if card_id:
         keys.add(("id", card_id))
-    if wiki_key:
+    for wiki_key in _wiki_keys(entry):
         keys.add(("wiki", wiki_key))
     return keys
 
