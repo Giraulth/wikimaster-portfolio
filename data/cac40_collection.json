@@ -44,7 +44,7 @@
                 "q_score": 67.26,
                 "category": "entreprise française produisant des gaz à visée industrielle ou médicale",
                 "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Air_Liquide12.jpg/330px-Air_Liquide12.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "pageviews": 3996,
+                "pageviews": 3944,
                 "created_at": "2026-04-16T03:42:42.735921+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Air_liquide_(soci%C3%A9t%C3%A9)",
@@ -77,7 +77,7 @@
                 "q_score": 67.58,
                 "category": "assurance et groupe financier",
                 "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/AXA_Logo.svg/330px-AXA_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "pageviews": 4139,
+                "pageviews": 4173,
                 "created_at": "2026-04-13T00:51:00.46742+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Axa",
@@ -166,6 +166,39 @@
             "owned": true
         },
         {
+            "id": "c93266b7-ad4d-42e3-8fc9-c4bd2a018780",
+            "card": {
+                "id": "57100bc7-3458-477a-b414-39363292874b",
+                "atk": 9000,
+                "def": 9836,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 97.28,
+                "category": "multinationale française de la grande distribution",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/5/59/Carrefour_HQ.jpg/330px-Carrefour_HQ.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 7139,
+                "created_at": "2026-04-17T00:54:31.413259+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Groupe_Carrefour",
+                "wikipedia_title": "Groupe Carrefour"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "57100bc7-3458-477a-b414-39363292874b",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-03T13:46:55.232964+00:00",
+            "owned": true
+        },
+        {
             "id": "9bbb0d05-f09f-4073-802b-c17adc44f817",
             "card": {
                 "id": "a84e31e3-4828-4497-bda2-fde906598688",
@@ -176,7 +209,7 @@
                 "q_score": 65.07,
                 "category": "groupe français du secteur du luxe",
                 "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/H%C3%B4pital_Laennec%2C_Rue_de_S%C3%A8vres%2C_Paris.jpg/330px-H%C3%B4pital_Laennec%2C_Rue_de_S%C3%A8vres%2C_Paris.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "pageviews": 10632,
+                "pageviews": 11961,
                 "created_at": "2026-04-24T19:22:47.595807+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Kering",
@@ -196,6 +229,39 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-10-01T17:32:23.3829+00:00",
+            "owned": true
+        },
+        {
+            "id": "aeae50a2-d03b-4198-bd85-91da20e7631c",
+            "card": {
+                "id": "9ed8fcd3-bbe5-4445-8c85-8ba20c5c8c0e",
+                "atk": 8999,
+                "def": 9013,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 84.11,
+                "category": "groupe français d’entreprises de luxe",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/La_Samaritaine_depuis_le_pont_Neuf.jpg/330px-La_Samaritaine_depuis_le_pont_Neuf.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 19810,
+                "created_at": "2026-05-28T19:29:56.393665+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/LVMH_-_Mo%C3%ABt_Hennessy_Louis_Vuitton",
+                "wikipedia_title": "LVMH - Moët Hennessy Louis Vuitton"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "9ed8fcd3-bbe5-4445-8c85-8ba20c5c8c0e",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-04T21:49:59.195881+00:00",
             "owned": true
         },
         {
@@ -229,6 +295,39 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-10-02T09:08:15.268348+00:00",
+            "owned": true
+        },
+        {
+            "id": "af750d58-d18a-4bb7-b63d-d5ef084c693e",
+            "card": {
+                "id": "91f0a719-3d22-4ccc-abe2-33891b37965c",
+                "atk": 8406,
+                "def": 7371,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 60.15,
+                "category": "entreprise française spécialisée dans la production, la transformation et distribution de matériaux",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/dc/Saint-Gobain_logo.svg/330px-Saint-Gobain_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 6599,
+                "created_at": "2026-04-24T16:29:10.979687+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Saint-Gobain",
+                "wikipedia_title": "Saint-Gobain"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "91f0a719-3d22-4ccc-abe2-33891b37965c",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-03T13:38:36.426838+00:00",
             "owned": true
         },
         {
@@ -298,6 +397,39 @@
             "owned": true
         },
         {
+            "id": "c9fa9eca-535e-437e-8f35-82bc41d0a0bf",
+            "card": {
+                "id": "76d1b334-db3d-418e-9d1c-4d9bca293f33",
+                "atk": 6827,
+                "def": 6535,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 49.22,
+                "category": "multinationale française spécialisée dans l'immobilier commercial",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Unibail_Rodamco_Westfield.jpg/330px-Unibail_Rodamco_Westfield.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 2616,
+                "created_at": "2026-04-15T17:26:12.4078+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Unibail-Rodamco-Westfield",
+                "wikipedia_title": "Unibail-Rodamco-Westfield"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "76d1b334-db3d-418e-9d1c-4d9bca293f33",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-04T05:29:11.55458+00:00",
+            "owned": true
+        },
+        {
             "id": "65edbf5c-9718-4c5e-9d9a-113711470655",
             "card": {
                 "id": "19dec69a-dd45-49b3-883b-4488fd42e872",
@@ -328,6 +460,39 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-09-30T17:01:34.363496+00:00",
+            "owned": true
+        },
+        {
+            "id": "36515a45-6fc4-4abc-98e4-825f45695115",
+            "card": {
+                "id": "040e4868-096d-4d27-a193-bdcc91b14130",
+                "atk": 8517,
+                "def": 7146,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 57.12,
+                "category": "groupe industriel français",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Institut_de_l%27Entreprise_Colloque_%C2%AB_Le_travail_demain_%C2%BB_%2820893469865%29.jpg/330px-Institut_de_l%27Entreprise_Colloque_%C2%AB_Le_travail_demain_%C2%BB_%2820893469865%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 5228,
+                "created_at": "2026-04-27T18:53:18.193984+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Vinci_(entreprise)",
+                "wikipedia_title": "Vinci (entreprise)"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "040e4868-096d-4d27-a193-bdcc91b14130",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-04T18:21:13.291094+00:00",
             "owned": true
         },
         {
@@ -771,26 +936,6 @@
             "owned": false
         },
         {
-            "id": "wanted-cac40-saint-gobain",
-            "card": {
-                "id": "wanted-cac40-saint-gobain",
-                "rarity": "?",
-                "category": "entreprise du CAC 40",
-                "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/dc/Saint-Gobain_logo.svg/330px-Saint-Gobain_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "hide_image": false,
-                "wikipedia_url": "https://fr.wikipedia.org/wiki/Saint-Gobain",
-                "wikipedia_title": "Saint-Gobain"
-            },
-            "tags": [
-                {
-                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
-                    "name": "cac40",
-                    "color": "#818cf8"
-                }
-            ],
-            "owned": false
-        },
-        {
             "id": "wanted-cac40-sanofi",
             "card": {
                 "id": "wanted-cac40-sanofi",
@@ -880,26 +1025,6 @@
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Thales",
                 "wikipedia_title": "Thales"
-            },
-            "tags": [
-                {
-                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
-                    "name": "cac40",
-                    "color": "#818cf8"
-                }
-            ],
-            "owned": false
-        },
-        {
-            "id": "wanted-cac40-unibail-rodamco-westfield",
-            "card": {
-                "id": "wanted-cac40-unibail-rodamco-westfield",
-                "rarity": "?",
-                "category": "entreprise du CAC 40",
-                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Unibail_Rodamco_Westfield.jpg/330px-Unibail_Rodamco_Westfield.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "hide_image": false,
-                "wikipedia_url": "https://fr.wikipedia.org/wiki/Unibail-Rodamco-Westfield",
-                "wikipedia_title": "Unibail-Rodamco-Westfield"
             },
             "tags": [
                 {

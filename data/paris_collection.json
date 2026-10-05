@@ -133,6 +133,39 @@
             "owned": true
         },
         {
+            "id": "e6726c50-fc82-4d8c-b8d4-f0015885cb66",
+            "card": {
+                "id": "7eb6a880-5e14-414e-8f96-d975715a3992",
+                "atk": 3157,
+                "def": 5476,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 36.66,
+                "category": "rue de Paris, en France",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaque_Rue_Colonels_Renard_-_Paris_XVII_%28FR75%29_-_2021-08-22_-_1.jpg/330px-Plaque_Rue_Colonels_Renard_-_Paris_XVII_%28FR75%29_-_2021-08-22_-_1.jpg",
+                "pageviews": 79,
+                "created_at": "2026-05-05T05:02:55.661957+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Rue_des_Colonels-Renard",
+                "wikipedia_title": "Rue des Colonels-Renard"
+            },
+            "tags": [
+                {
+                    "id": "c63498bd-9f0a-4400-a28e-e211c4a58f2d",
+                    "name": "Paris",
+                    "color": "#fb923c",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T06:06:48.146886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "7eb6a880-5e14-414e-8f96-d975715a3992",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-04T16:08:09.56812+00:00",
+            "owned": true
+        },
+        {
             "id": "35e99b55-85fa-4e98-9c47-b4441030dc11",
             "card": {
                 "id": "c8e76c31-9a2d-424f-9d5c-bf91f6d1cd43",
@@ -176,7 +209,7 @@
                 "q_score": 23.33,
                 "category": "rue de Paris, en France",
                 "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Elysees_Lincoln-_Paris.jpg/330px-Elysees_Lincoln-_Paris.jpg",
-                "pageviews": 104,
+                "pageviews": 109,
                 "created_at": "2026-04-27T07:25:23.414335+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Rue_Lincoln_(Paris)",
@@ -242,7 +275,7 @@
                 "q_score": 15.29,
                 "category": "place du 7e arrondissement de Paris en France",
                 "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Place_Simone-Michel-L%C3%A9vy_-_Avenue_de_Saxe%2C_Paris_7.jpg/330px-Place_Simone-Michel-L%C3%A9vy_-_Avenue_de_Saxe%2C_Paris_7.jpg",
-                "pageviews": 20,
+                "pageviews": 17,
                 "created_at": "2026-05-04T19:13:31.834739+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Place_Simone-Michel-L%C3%A9vy",
