@@ -1,6 +1,72 @@
 {
     "collection": [
         {
+            "id": "6e94919d-9a33-4a16-a908-292f7ea5a174",
+            "card": {
+                "id": "48c975b6-c091-4866-a61f-7ac5ea8df6a0",
+                "atk": 3796,
+                "def": 658,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 1.07,
+                "category": null,
+                "image_url": null,
+                "pageviews": 270,
+                "created_at": "2026-05-12T15:23:06.509073+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Pr%C3%A9cordialgie",
+                "wikipedia_title": "Précordialgie"
+            },
+            "tags": [
+                {
+                    "id": "3e16fe09-b0c8-4108-b3f3-417e9c9a731f",
+                    "name": "Phillou",
+                    "color": "#2dd4bf",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-10-02T19:51:03.631452+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "48c975b6-c091-4866-a61f-7ac5ea8df6a0",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-06T12:40:53.375388+00:00",
+            "owned": true
+        },
+        {
+            "id": "e6305363-1e02-4f68-b730-dc07c8893367",
+            "card": {
+                "id": "c71091fa-0cb8-4ad0-bc01-b1bffe0b37b5",
+                "atk": 4738,
+                "def": 4907,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 30.53,
+                "category": "tableau de Gustave Courbet",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gustave_Courbet_018.jpg/330px-Gustave_Courbet_018.jpg",
+                "pageviews": 929,
+                "created_at": "2026-04-09T17:01:49.063689+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Les_Casseurs_de_pierres",
+                "wikipedia_title": "Les Casseurs de pierres"
+            },
+            "tags": [
+                {
+                    "id": "3e16fe09-b0c8-4108-b3f3-417e9c9a731f",
+                    "name": "Phillou",
+                    "color": "#2dd4bf",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-10-02T19:51:03.631452+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "c71091fa-0cb8-4ad0-bc01-b1bffe0b37b5",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-06T12:40:06.519541+00:00",
+            "owned": true
+        },
+        {
             "id": "5a173f74-75fb-4673-a687-ccf4cf7a469f",
             "card": {
                 "id": "2f3aa830-1703-44e7-9f9f-e023dd12ddaa",

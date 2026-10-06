@@ -34,6 +34,39 @@
             "owned": true
         },
         {
+            "id": "f43ab301-8c88-4569-b2b4-837e3e13cea2",
+            "card": {
+                "id": "bf557e42-c24c-404b-a20e-2533c5625198",
+                "atk": 4938,
+                "def": 4212,
+                "lang": "fr",
+                "rarity": "R",
+                "q_score": 23.67,
+                "category": "ordinateurs reliés en réseau par Internet et qui coopèrent pour mettre à disposition des données à des utilisateurs",
+                "image_url": null,
+                "pageviews": 401,
+                "created_at": "2026-05-07T18:16:09.648703+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/R%C3%A9seau_de_diffusion_de_contenu",
+                "wikipedia_title": "Réseau de diffusion de contenu"
+            },
+            "tags": [
+                {
+                    "id": "a8b6f623-5290-4fed-b0d5-2658f10b5c60",
+                    "name": "geek",
+                    "color": "#38bdf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:49.145555+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "bf557e42-c24c-404b-a20e-2533c5625198",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-06T17:46:33.494512+00:00",
+            "owned": true
+        },
+        {
             "id": "0b267b3f-fda9-476b-89fd-ecc271e1eb88",
             "card": {
                 "id": "11b49de2-af7f-4907-a149-55d5197ecd36",
@@ -44,7 +77,7 @@
                 "q_score": 31.41,
                 "category": "marque commerciale de Nokia Corporation, utilisée sous licence par TCL Communication",
                 "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Acatel_Idol_3_smartphones.jpg/330px-Acatel_Idol_3_smartphones.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "pageviews": 709,
+                "pageviews": 730,
                 "created_at": "2026-04-08T17:42:48.273428+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Alcatel_Mobile",

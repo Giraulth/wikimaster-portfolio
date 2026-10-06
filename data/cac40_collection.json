@@ -11,7 +11,7 @@
                 "q_score": 81.2,
                 "category": "groupe hôtelier français",
                 "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/c/c3/Accor_Logo.png/330px-Accor_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "pageviews": 6106,
+                "pageviews": 5942,
                 "created_at": "2026-04-16T18:09:22.092301+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Accor",
@@ -100,6 +100,72 @@
             "owned": true
         },
         {
+            "id": "9a2ee4a3-0846-4867-80d8-e45a5e251e31",
+            "card": {
+                "id": "927706c4-7a46-4c32-99fd-eb97f7326096",
+                "atk": 6503,
+                "def": 5625,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 38.34,
+                "category": "société d’inspection, d’audit, de tests",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bureau_Veritas_Hamburg_02.jpg/330px-Bureau_Veritas_Hamburg_02.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 2112,
+                "created_at": "2026-04-19T10:27:15.187251+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Bureau_Veritas",
+                "wikipedia_title": "Bureau Veritas"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "927706c4-7a46-4c32-99fd-eb97f7326096",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-06T17:20:45.107239+00:00",
+            "owned": true
+        },
+        {
+            "id": "310b7070-3242-4e94-a7bd-9e5078671b8e",
+            "card": {
+                "id": "642d29d4-2d13-4212-9664-2fe150f8ed90",
+                "atk": 8694,
+                "def": 7310,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 59.33,
+                "category": "entreprise de services du numérique française",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/11_rue_de_Tilsitt.jpg/330px-11_rue_de_Tilsitt.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 5899,
+                "created_at": "2026-04-16T10:12:21.203241+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Capgemini",
+                "wikipedia_title": "Capgemini"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "642d29d4-2d13-4212-9664-2fe150f8ed90",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-05T19:42:56.672446+00:00",
+            "owned": true
+        },
+        {
             "id": "9a927f21-14ab-4ce3-98eb-bcfcaac72266",
             "card": {
                 "id": "86ac36ce-ea4e-4bec-9479-bbad76460673",
@@ -110,7 +176,7 @@
                 "q_score": 88.42,
                 "category": "groupe industriel multinational fondé en France",
                 "image_url": "https://thumb.wikimedia.org/wikipedia/fr/thumb/c/ca/Danone_Logo_corporate.png/330px-Danone_Logo_corporate.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "pageviews": 8465,
+                "pageviews": 8169,
                 "created_at": "2026-04-16T01:36:30.744933+00:00",
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Danone",
@@ -298,6 +364,39 @@
             "owned": true
         },
         {
+            "id": "0301483a-5b0a-4f44-a54d-e4f2de44f50d",
+            "card": {
+                "id": "5899a897-3a9f-410f-a855-79315460cb4a",
+                "atk": 9000,
+                "def": 8783,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 80.81,
+                "category": "multinationale de la cosmétique",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/14_rue_Royale_%C3%A0_Paris.JPG/330px-14_rue_Royale_%C3%A0_Paris.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 8083,
+                "created_at": "2026-04-07T21:40:01.071715+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Or%C3%A9al",
+                "wikipedia_title": "L'Oréal"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "5899a897-3a9f-410f-a855-79315460cb4a",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-06T18:29:40.201245+00:00",
+            "owned": true
+        },
+        {
             "id": "aeae50a2-d03b-4198-bd85-91da20e7631c",
             "card": {
                 "id": "9ed8fcd3-bbe5-4445-8c85-8ba20c5c8c0e",
@@ -361,6 +460,39 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-10-02T09:08:15.268348+00:00",
+            "owned": true
+        },
+        {
+            "id": "8b85574f-5348-41d9-bb56-1d94ee19dd0a",
+            "card": {
+                "id": "51a2b312-5e1a-4e5f-a31f-3fbb43d1f0d7",
+                "atk": 8317,
+                "def": 7246,
+                "lang": "fr",
+                "rarity": "UR",
+                "q_score": 58.46,
+                "category": "groupe industriel et technologique français",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Site_groupe_aeronautique_SAFRAN_Casablanca_route_Nouaceur-Photo_Bertrand_SOUBEYRAND.jpg/330px-Site_groupe_aeronautique_SAFRAN_Casablanca_route_Nouaceur-Photo_Bertrand_SOUBEYRAND.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 11548,
+                "created_at": "2026-04-12T01:26:30.434122+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Safran_(entreprise)",
+                "wikipedia_title": "Safran (entreprise)"
+            },
+            "tags": [
+                {
+                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
+                    "name": "cac40",
+                    "color": "#818cf8",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-30T17:42:31.093747+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "51a2b312-5e1a-4e5f-a31f-3fbb43d1f0d7",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-05T20:53:59.230157+00:00",
             "owned": true
         },
         {
@@ -642,46 +774,6 @@
             "owned": false
         },
         {
-            "id": "wanted-cac40-bureau-veritas",
-            "card": {
-                "id": "wanted-cac40-bureau-veritas",
-                "rarity": "?",
-                "category": "entreprise du CAC 40",
-                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bureau_Veritas_Hamburg_02.jpg/330px-Bureau_Veritas_Hamburg_02.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "hide_image": false,
-                "wikipedia_url": "https://fr.wikipedia.org/wiki/Bureau_Veritas",
-                "wikipedia_title": "Bureau Veritas"
-            },
-            "tags": [
-                {
-                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
-                    "name": "cac40",
-                    "color": "#818cf8"
-                }
-            ],
-            "owned": false
-        },
-        {
-            "id": "wanted-cac40-capgemini",
-            "card": {
-                "id": "wanted-cac40-capgemini",
-                "rarity": "?",
-                "category": "entreprise du CAC 40",
-                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/11_rue_de_Tilsitt.jpg/330px-11_rue_de_Tilsitt.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "hide_image": false,
-                "wikipedia_url": "https://fr.wikipedia.org/wiki/Capgemini",
-                "wikipedia_title": "Capgemini"
-            },
-            "tags": [
-                {
-                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
-                    "name": "cac40",
-                    "color": "#818cf8"
-                }
-            ],
-            "owned": false
-        },
-        {
             "id": "wanted-cac40-credit-agricole",
             "card": {
                 "id": "wanted-cac40-credit-agricole",
@@ -802,26 +894,6 @@
             "owned": false
         },
         {
-            "id": "wanted-cac40-l-oreal",
-            "card": {
-                "id": "wanted-cac40-l-oreal",
-                "rarity": "?",
-                "category": "entreprise du CAC 40",
-                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/14_rue_Royale_%C3%A0_Paris.JPG/330px-14_rue_Royale_%C3%A0_Paris.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-                "hide_image": false,
-                "wikipedia_url": "https://fr.wikipedia.org/wiki/L%27Or%C3%A9al",
-                "wikipedia_title": "L'Oréal"
-            },
-            "tags": [
-                {
-                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
-                    "name": "cac40",
-                    "color": "#818cf8"
-                }
-            ],
-            "owned": false
-        },
-        {
             "id": "wanted-cac40-michelin",
             "card": {
                 "id": "wanted-cac40-michelin",
@@ -891,26 +963,6 @@
                 "hide_image": false,
                 "wikipedia_url": "https://fr.wikipedia.org/wiki/Renault",
                 "wikipedia_title": "Renault"
-            },
-            "tags": [
-                {
-                    "id": "ed71f8ea-7e11-45d5-b92b-3abbb64d0048",
-                    "name": "cac40",
-                    "color": "#818cf8"
-                }
-            ],
-            "owned": false
-        },
-        {
-            "id": "wanted-cac40-safran",
-            "card": {
-                "id": "wanted-cac40-safran",
-                "rarity": "?",
-                "category": "entreprise du CAC 40",
-                "image_url": null,
-                "hide_image": false,
-                "wikipedia_url": "https://fr.wikipedia.org/wiki/Safran_(entreprise)",
-                "wikipedia_title": "Safran"
             },
             "tags": [
                 {

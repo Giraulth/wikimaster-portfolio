@@ -133,6 +133,39 @@
             "owned": true
         },
         {
+            "id": "72ea799a-ae78-4357-943a-3df869417b94",
+            "card": {
+                "id": "020eee85-df31-4377-bec5-e86108f9f1ca",
+                "atk": 6883,
+                "def": 5329,
+                "lang": "fr",
+                "rarity": "SR",
+                "q_score": 35.04,
+                "category": "coureur cycliste britannique",
+                "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Adam_Yates_%C3%A9tape_16_TDF_2024.jpg/330px-Adam_Yates_%C3%A9tape_16_TDF_2024.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 1154,
+                "created_at": "2026-04-02T20:38:14.307965+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Adam_Yates",
+                "wikipedia_title": "Adam Yates"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "020eee85-df31-4377-bec5-e86108f9f1ca",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-06T09:51:27.736028+00:00",
+            "owned": true
+        },
+        {
             "id": "fb5525fb-1fcd-454a-bee4-de455991dc01",
             "card": {
                 "id": "765b146e-0b6c-4bd7-8c38-4adfbd929a06",
@@ -427,6 +460,39 @@
             "starred": false,
             "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
             "obtained_at": "2026-10-02T16:32:35.55623+00:00",
+            "owned": true
+        },
+        {
+            "id": "08de17b6-8c62-42b6-b5cf-7053d56f775b",
+            "card": {
+                "id": "5a83ea34-eea0-4ac2-8b2d-b84835ec270b",
+                "atk": 3038,
+                "def": 1888,
+                "lang": "fr",
+                "rarity": "PC",
+                "q_score": 6.22,
+                "category": "compétition de cyclisme",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/De_Italiaanse_wielrenner_Alfredo_Binda_geboren_11_augustus_1902-overleden_19_juli_1986%2C_hier_op_22%2C_SFA222006881.jpg/330px-De_Italiaanse_wielrenner_Alfredo_Binda_geboren_11_augustus_1902-overleden_19_juli_1986%2C_hier_op_22%2C_SFA222006881.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+                "pageviews": 91,
+                "created_at": "2026-04-13T21:15:12.289619+00:00",
+                "hide_image": false,
+                "wikipedia_url": "https://fr.wikipedia.org/wiki/Championnats_du_monde_de_cyclisme_sur_route_1927",
+                "wikipedia_title": "Championnats du monde de cyclisme sur route 1927"
+            },
+            "tags": [
+                {
+                    "id": "1f306648-72a1-44a7-82d2-e5a6b37fee65",
+                    "name": "bike",
+                    "color": "#a78bfa",
+                    "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+                    "created_at": "2026-09-29T14:47:27.203886+00:00"
+                }
+            ],
+            "count": 1,
+            "card_id": "5a83ea34-eea0-4ac2-8b2d-b84835ec270b",
+            "starred": false,
+            "user_id": "65102607-ddbc-42bc-986f-0473982d1b59",
+            "obtained_at": "2026-10-06T12:40:53.375388+00:00",
             "owned": true
         },
         {
